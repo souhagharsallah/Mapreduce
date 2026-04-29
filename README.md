@@ -21,6 +21,11 @@ Compiler tous les fichiers Java :
 ```powershell
 $files = Get-ChildItem -Recurse -Filter *.java .\src | ForEach-Object { $_.FullName }
 javac -d out $files
+
+OU
+
+javac -d out src\Main.java src\common\*.java src\coordinator\*.java src\Map\*.java src\Reducer\*.java
+
 ```
 
 ## Exécution
