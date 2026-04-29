@@ -6,5 +6,6 @@ public enum MessageType implements Serializable {
     MAP_TASK,
     MAP_DONE,
     INTERMEDIATE_DATA,
-    RESULT
+    RESULT,
+    FINAL_RESULT
 }
