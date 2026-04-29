@@ -9,6 +9,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.HashMap;
 import java.util.Map;
+import java.io.ObjectOutputStream;
 
 public class ReduceWorker {
     private int reducerId;
@@ -35,6 +36,7 @@ public class ReduceWorker {
 
         System.out.println("ReduceWorker " + reducerId + " finished aggregation.");
         printFinalCounts();
+        sendFinalResultToCoordinator();
     }
 
     private void handleConnection(Socket socket) {
@@ -79,4 +81,22 @@ public class ReduceWorker {
         ReduceWorker worker = new ReduceWorker(reducerId, port, expectedMaps);
         worker.start();
     }
+
+    private void sendFinalResultToCoordinator() {
+        try (
+                Socket socket = new Socket("localhost", 7000);
+                ObjectOutputStream out = new ObjectOutputStream(socket.getOutputStream())
+        ) {
+            FinalResult result = new FinalResult(reducerId, finalCounts);
+
+            out.writeObject(new Message(MessageType.FINAL_RESULT, result));
+            out.flush();
+
+            System.out.println("ReduceWorker " + reducerId + " sent final result to Coordinator");
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+
 }

@@ -7,6 +7,13 @@ import java.io.ObjectOutputStream;
 import java.net.Socket;
 import java.util.ArrayList;
 import java.util.List;
+import common.FinalResult;
+
+import java.io.ObjectInputStream;
+import java.net.ServerSocket;
+import java.util.HashMap;
+import java.util.Map;
+
 public class Coordinator {
     private final List<String> mapHosts = new ArrayList<>();
     private final List<Integer> mapPorts = new ArrayList<>();
@@ -66,5 +73,48 @@ public class Coordinator {
         );
 
         coordinator.dispatchMapTasks(files);
+        coordinator.waitForFinalResults(2);
     }
+    public void waitForFinalResults(int numberOfReducers) {
+        Map<String, Integer> globalCounts = new HashMap<>();
+        int receivedReducers = 0;
+
+        try (ServerSocket serverSocket = new ServerSocket(7000)) {
+            System.out.println("Coordinator waiting for final results on port 7000...");
+
+            while (receivedReducers < numberOfReducers) {
+                Socket socket = serverSocket.accept();
+
+                try (ObjectInputStream in = new ObjectInputStream(socket.getInputStream())) {
+                    Message msg = (Message) in.readObject();
+
+                    if (msg.getType() == MessageType.FINAL_RESULT) {
+                        FinalResult result = (FinalResult) msg.getPayload();
+
+                        for (Map.Entry<String, Integer> entry : result.getFinalCounts().entrySet()) {
+                            globalCounts.put(
+                                    entry.getKey(),
+                                    globalCounts.getOrDefault(entry.getKey(), 0) + entry.getValue()
+                            );
+                        }
+
+                        receivedReducers++;
+
+                        System.out.println("Coordinator received result from Reducer "
+                                + result.getReducerId()
+                                + " (" + receivedReducers + "/" + numberOfReducers + ")");
+                    }
+                }
+            }
+
+            System.out.println("===== GLOBAL FINAL RESULT =====");
+            for (Map.Entry<String, Integer> entry : globalCounts.entrySet()) {
+                System.out.println(entry.getKey() + " -> " + entry.getValue());
+            }
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+
 }
