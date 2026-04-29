@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MapReduce.iml" filepath="$PROJECT_DIR$/.idea/MapReduce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mapreduce/Mapreduce.iml" filepath="$PROJECT_DIR$/Mapreduce/Mapreduce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sonarqube/sonarqube.iml" filepath="$PROJECT_DIR$/sonarqube/sonarqube.iml" />
+    </modules>
+  </component>
+</project>
