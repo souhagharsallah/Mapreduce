@@ -44,26 +44,29 @@ public class MapWorker {
     }
     private void processTask(TaskInfo task) {
         try {
-            String content = Files.readString(Paths.get(task.getFilePath()));
-
-            content = content.toLowerCase();
-            content = content.replaceAll("[^a-zàâçéèêëîïôûùüÿñæœ0-9 ]", " ");
-
-            String[] words = content.split("\\s+");
-
             Map<String, Integer> localCounts = new HashMap<>();
 
-            for (String word : words) {
-                if (word == null || word.isBlank()) continue;
-                localCounts.put(word, localCounts.getOrDefault(word, 0) + 1);
+            // 1. Lecture du fichier ligne par ligne (Sécurisé pour la mémoire)
+            try (BufferedReader reader = Files.newBufferedReader(Paths.get(task.getFilePath()))) {
+                String line;
+                while ((line = reader.readLine()) != null) {
+                    line = line.toLowerCase().replaceAll("[^a-zàâçéèêëîïôûùüÿñæœ0-9 ]", " ");
+                    String[] words = line.split("\\s+");
+
+                    for (String word : words) {
+                        if (word == null || word.isBlank()) continue;
+                        localCounts.put(word, localCounts.getOrDefault(word, 0) + 1);
+                    }
+                }
             }
 
+            // 2. Préparation des boîtes (partitions) pour les Reducers
             Map<Integer, Map<String, Integer>> partitions = new HashMap<>();
-
             for (int i = 0; i < task.getNumReducers(); i++) {
                 partitions.put(i, new HashMap<>());
             }
 
+            // 3. Répartition des mots en fonction de leur Hash
             for (Map.Entry<String, Integer> entry : localCounts.entrySet()) {
                 String word = entry.getKey();
                 int count = entry.getValue();
@@ -71,6 +74,8 @@ public class MapWorker {
                 int reducerId = Math.abs(word.hashCode()) % task.getNumReducers();
                 partitions.get(reducerId).put(word, count);
             }
+
+            // 4. Envoi des données aux Reducers correspondants
             for (int reducerId = 0; reducerId < task.getNumReducers(); reducerId++) {
                 sendToReducer(
                         task.getReducerHosts().get(reducerId),
@@ -85,6 +90,7 @@ public class MapWorker {
             e.printStackTrace();
         }
     }
+    
     private void sendToReducer(String host, int port, IntermediateData data) {
         try (
                 Socket socket = new Socket(host, port);
