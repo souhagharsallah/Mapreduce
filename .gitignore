@@ -1,5 +1,0 @@
-echo "data/" >> .gitignore
-echo "*.log" >> .gitignore
-echo "*_part*.txt" >> .gitignore
-echo "resultat_reducer_*.txt" >> .gitignore
-echo "final.txt" >> .gitignore
