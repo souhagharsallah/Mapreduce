@@ -30,44 +30,8 @@ javac -d out src\Main.java src\common\*.java src\coordinator\*.java src\Map\*.ja
 
 ## Exécution
 
-Le projet utilise des sockets, donc il faut ouvrir **5 terminaux** dans le même dossier du projet.
+Il faut ouvrir un terminal dans le même dossier du projet pour lancer le Manager:
 
-### Terminal 1 - Reducer 0
+### Terminal 
 
-```powershell
-java -cp out Reduce.ReduceWorker 0 6001 2
-```
-
-### Terminal 2 - Reducer 1
-
-```powershell
-java -cp out Reduce.ReduceWorker 1 6002 2
-```
-
-### Terminal 3 - MapWorker 0
-
-```powershell
-java -cp out Map.MapWorker 0 5001
-```
-
-### Terminal 4 - MapWorker 1
-
-```powershell
-java -cp out Map.MapWorker 1 5002
-```
-
-### Terminal 5 - Coordinator
-
-```powershell
 java -cp out coordinator.Coordinator
-```
-
-## Ordre de lancement
-
-L'ordre d'exécution est important :
-
-```text
-1. Lancer les ReduceWorkers
-2. Lancer les MapWorkers
-3. Lancer le Coordinator
-``
