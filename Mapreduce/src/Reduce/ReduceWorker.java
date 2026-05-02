@@ -34,11 +34,14 @@ public class ReduceWorker {
         }
 
         System.out.println("ReduceWorker " + reducerId + " finished aggregation.");
+<<<<<<< HEAD
 
         // Au lieu d'envoyer au coordinateur, on sauvegarde dans un fichier
         saveResultsToFile();
         running = false; // stoppe le heartbeat thread
         //  ET on envoie le résultat final au coordinateur ! (AJOUTE CETTE LIGNE)
+=======
+>>>>>>> a43b010 (Logique de decoupage de fichier et de choix de nb des mapper et reducer et lancer les papper est reducer automatiquement a travers le coordinateur)
         sendFinalResultToCoordinator();
         
     }

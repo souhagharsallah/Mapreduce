@@ -208,7 +208,7 @@ public class Coordinator {
         System.out.println("⏱ Phase Map    : " + (reduceStart - mapStart) + " ms");
         System.out.println("⏱ Phase Reduce : " + (endTime - reduceStart) + " ms");
         System.out.println(" Temps total : " + duration + " ms (" + (duration / 1000.0) + " s)");
-}
+    }
 
     // ---------------- FILE SPLIT ----------------
 
@@ -309,13 +309,13 @@ public class Coordinator {
                     received++;
                     // Le Reducer a envoyé son résultat, il a fini.
                     // On prévient le FailureDetector d'arrêter de le surveiller !
-                    String workerName = "REDUCER_" + r.getReducerId(); 
+                    String workerName = "REDUCER_" + r.getReducerId();
                     workers.remove(workerName);
                     System.out.println("Coordinateur : Le Reducer " + r.getReducerId() + " a terminé avec succès. Arrêt de la surveillance.");
                     // -----------------------------
-                
+
                 }
-                
+
                 s.close();
             }
 
