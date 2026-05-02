@@ -1,0 +1,1661 @@
+15; Be = 1/5 = 12; Bg = 1/6 = 10.
+Des points où les Ordonnes coupent le Cercle, tirons de part & dʼautre des Cordes aux deux
+extrémités du Diametre. La somme du quarré de chaque Corde & du quarré de la Corde
+correspondante, que jʼappelle son complément, sera toujours égale au quarré du Diametre. Les
+quarrés des Cordes seront entrʼeux comme les Abscisses correspondantes, par conséquent
+aussi en progression harmonique, & représenteront de même lʼexemple O, à lʼexception du
+premier Son.
+Les quarrés des Complémens de ces mêmes Cordes seront entrʼeux comme les
+Complémens des Abscisses au Diametre, par conséquent dans les raisons suivantes:
+[678]
+AC2=1/2=30.
+AG2=2/3=40.
+Ac2=3/4=45.
+Ae2=4/5=48.
+Ag2=5/6=50.
+
+& de représenteront les Sons de lʼexemple P; sur lequel on doit remarquer en passant, que
+cet exemple, comparé au suivant Q & au précédent O, donne le fondement naturel de la regle
+des mouvemens contraires.
+Les quarrés des Ordonnées seront au quarré 3600 du Diametre dans les raisons suivantes:
+A B 2=1=3600.
+C,CC2=1/4=900.
+G,GG2=2/9=800.
+c,cc2=3/16=675.
+e,ee2=4/25=576.
+g,gg2=5/36=500.
+& représenteront les Sons de lʼexemple Q.
+[679] Or, cette derniere Série, qui nʼa point dʼhomologue dans les divisions du Diametre, &
+
+Jean-Jacques Rousseau, VOLUME 9. Dictionnaire de musique, in Collection complète des oeuvres, Genève, 1780-1789, vol. 9, in-4°,
+édition en ligne www.rousseauonline.ch, version du 7 octobre 2012.
+
+sans laquelle on ne sauroit pourtant compléter le Systême harmonique, montre la nécessité de
+chercher dans les propriétés du Cercle les vrais fondemens du Systême, quʼon ne peut trouver, ni
+dans la ligne droite, ni dans les seuls nombres abstraits.
+Je passe à dessein toutes les autres propositions de M. Tartini sur la nature arithmétique,
+harmonique & géométrique du Cercle, de même que sur les bornes de la Série harmonique
+donnée par la raison sextuple; parce que ses preuves, énoncées seulement en chiffres,
+nʼétablissent aucune démonstration générale; que, de plus, comparant souvent des grandeurs
+hétérogenes, il trouvé des proportions où lʼon ne sauroit même voir de rapport. Ainsi, quand il
+croit prouver que le quarré dʼune ligne est moyen proportionnel dʼune telle raison, il ne prouve
+autre chose, sinon que tel nombre est moyen proportionnel entre deux tels autres nombres car
+les surfaces & les nombres abstraits nʼétant point de même nature, ne peuvent se comparer. M.
+Tartini sent cette difficulté, & sʼefforce de la prévenir; on peut voir ses raisonnemens dans son
+Livre.
+Cette théorie établie, il sʼagit maintenant dʼen déduire les faits donnés, & les regles de lʼArt
+Harmonique.
+LʼOctave, qui nʼengendre aucun Son fondamental, nʼétant point essentielle à lʼHarmonie,
+peut être retranchée des parties constitutives de lʼAccord. Ainsi, lʼAccord, réduit à sa plus
+grande simplicité, doit être considéré sans elle. Alors il est composé seulement de ces trois
+termes 1 1/3 1/5, lesquels [680] sont en proportion harmonique, & où les deux Monades 1/3 1/5
+sont les seuls vrais élémens de lʼUnité sonore, qui porte le nom dʼAccord parfait: car, la fraction
+1/4 est élément de lʼOctave 1/2, & la fraction 1 1/3 1/5 est Octave de la Monade 1/3.
+Cet Accord parfait, 1 1/3 1/5 produit par une seule Corde dont les termes sont en proportion
+harmonique, est la loi générale de la lʼNature, qui sert de base à toute la science des Tons, loi
+que la Physique peut tenterdʼexpliquer, mais dont lʼexplication est inutile aux regles de
+1ʼHarmonie.
+Les calculs des Cordes & des poids tendans servent à donner en nombre les rapports des
+Sons quʼon ne peut considérer comme des quantités quʼà la faveur de ces calculs.
+Le troisieme Son, engendré par le concours de deux autres, est comme le produit de leurs
+quantités; & quand, dans une cathégorie commune, ce troisieme Son se trouvé toujours le
+même, quoiquʼengendré par des Intervalles différens, cʼest que les produits des générateurs
+sont égaux entrʼeux.
+Ceci se déduit manifestement des propositions précédentes.
+Quel est, par exemple, le troisieme Son qui résulte de C B & de G B? (Pl. I. Fig. 10.) Cʼest
+lʼUnisson de C B. Pourquoi? Parce que, dans les deux proportions harmoniques dont les
+quarrés des deux Ordonnées C, C C, & G, G G, sont moyens proportionnels, les sommes des
+extrêmes sont égales entrʼelles, & par conséquent produisent le même Son commun C B, ou C,
+C C.
+En effet, la somme des deux rectangles de B C par C, C C, & de A C par C, C C est égale à la
+somme des deux [681] rectangles de BG par C, C C, & de GA par C, C C car chacune de ces deux
+sommes est égale à deux fois le quarré du rayon. Dʼoù il suit que le Son C, C C ou C B, doit être
+commun aux deux Cordes: or, ce Son esʼt précisément la Note Q de O.
+Quelques Ordonnées que vous puissiez prendre dans le Cercle pour les comparer deux à
+deux, ou même trois à trois, elles engendreront toujours le même troisieme Son représenté par
+
+Jean-Jacques Rousseau, VOLUME 9. Dictionnaire de musique, in Collection complète des oeuvres, Genève, 1780-1789, vol. 9, in-4°,
+édition en ligne www.rousseauonline.ch, version du 7 octobre 2012.
+
+la Note Q; parce que les rectangles des deux parties du Diametre par le rayon donneront
+toujours des sommes égales.
+Mais lʼOctave X Q nʼengendre que des Harmoniques à lʼaigu, & point de Son fondamental,
+parce quʼon ne peut élever dʼOrdonnée sur lʼextrémité du Diametre, & que par conséquence le
+Diametre & le rayon ne sauroient, dans leurs proportions harmoniques, avoir aucun produit
+commun.
+Au lieu de diviser harmoniquement le Diametre par les fractions 1/21/3 1/4 1/5 1/6, qui
+donnent le Systême naturel de lʼAccord majeur; si en le devise arithmétiquement en six parties
+égales, on aura le Systême de lʼAccord majeur renversé, & ce renversement donne exactement
+lʼAccord mineur: car (Pl. I Fig. 12.) une de ces parties donnera la Dix-neuvieme, cʼest-à-dire, la
+double Octave de la Quinte; deux donneront la Douzieme, ou lʼOctave de la Quinte; trois
+donneront lʼOctave, quatre la Quinte & cinq la Tierce mineure.
+Mais, si-tôt quʼunissant deux de ces Sons, on cherchera le troisieme Son quʼils engendrent,
+ces deux Sons simultanées, au lieu du Son C, (Figure 13) ne produiront [682] jamais pour
+Fondamentale, que le Son E b; ce qui prouve que, ni lʼAccord mineur, ni son Mode, ne sont
+donnés par la Nature. Que si lʼon fait consonner deux ou plusieurs Intervalles de lʼAccord
+mineur, les Sons fondamentaux se multiplieront; &, relativement à ces Sons, on entendra
+plusieurs Accords majeurs à la fois, sans aucun Accord mineur.
+Ainsi, par expérience dire en présence de huit célebres Professeurs de Musique, deux
+Hautbois & un Violon sonnant ensemble les Notes blanches marquées dans la Portée A, (Pl. G.
+Fig. 5.) on entendoit distinctement les Sons marqués en noir dans la même Figure; savoir, ceux
+qui sont marqués à part dans la Portée B pour les Intervalles qui sont au-dessus, & ceux
+marqués dans la Portée C, aussi pour les Intervalles qui sont au-dessus.
+En jugeant de lʼhorrible cacophonie qui devoir résulter de cet ensemble, on doit conclure
+que toute Musique en Mode mineur seroit insupportable à lʼoreille, si les Intervalles étoient
+assez justes & les Instrumens assez forts pour rendre les Sons engendrés aussi sensibles que les
+générateurs.
+On me permettra de remarquer en passant, que lʼinverse de deux Modes, marquée dans la
+Figure 13, ne se borne pas à lʼAccord fondamental qui les constitue, mais peut lʼétendre à toute
+la suite dʼun Chant & dʼune Harmonie qui, notée en sens direct dans le Mode majeur, lorsquʼon
+renverse le papier & quʼon met des clefs à la fin cʼc Lignes devenues le commencement,
+présente à rebours une autre suite de Chant & dʼHarmonie en Mode mineur, exactement [683]
+inverse de la premiere où les Baffes deviennent les Dessus, & vice versâ. Cʼest ici la Clef de la
+maniere de composer ces doubles Canons dont jʼai parlé au mot Canon. M. Serre, ci-devant cité,
+lequel a très-bien exposé dans son Livré cette curiosité harmonique, annonce une Symphonie
+de cette espece, composée par M. de Morambert, qui avoit du la faire graver: cʼétoit mieux fait
+assurément que de la faire exécuter. Une composition de cette nature doit être meilleure à
+présenter aux yeux quʼaux oreilles.
+
+Jean-Jacques Rousseau, VOLUME 9. Dictionnaire de musique, in Collection complète des oeuvres, Genève, 1780-1789, vol. 9, in-4°,
+édition en ligne www.rousseauonline.ch, version du 7 octobre 2012.
+
+Nous venons de voir que de la division harmonique da Diametre résulte le Mode majeur, &
+de la division arithmétique le Mode mineur. Cʼest dʼailleurs un fait connu de tous les
+Théoriciens, que les rapports de lʼAccord milieu: se trouvent dans la division arithmétique de la
+Quinte. Pour trouver le premier fondement du Mode mineur dans le Systême harmonique, il
+suffit donc de montrer dans ce Systême la division arithmétique dans la Quinte.
+Tout le Systême harmonique est fondé sur la raison double, rapport de la Corde entiere à
+son Octave, ou du Diametre au rayon; & sur la raison sesqui-altere qui donne le premier Son
+harmonique ou fondamental auquel se rapportent tous les autres.
+Or, si, (Pl. I Fig. 11.) dans la raison double on compare successivement la deuxieme Note G, &
+la troisieme F de la Série P au Son fondamental Q, & à son Octave grave qui est la Corde entiere,
+on trouvera que la premiere est moyenne harmonique, & la seconde moyenne arithmétique
+entre ces deux termes.
+[684] De même, si dans la raison sesqui-altere on compare successivement la quatrieme
+Note e, & la cinquieme e b de la même Série à la Corde entiere & à sa Quinte G, on trouvera que
+la quatrieme e est moyenne harmonique, & la cinquieme e b moyenne arithmétique entre les
+deux termes de cette Quinte. Donc le Mode mineur étant fondé sur la division arithmétique de
+la Quinte, & la Note e b, prise dans la Série des Complémens du Systême harmonique donnant
+cette division, le Mode mineur est fondé sur cette Note dans le Systême harmonique.
+Après avoir trouvé toutes les Consonnances dans la division harmonique du Diametre
+donnée par lʼexemple O, le Mode majeur dans lʼordre direct de ses Consonnances, le Mode
+mineur dans leur ordre rétrograde, & dans leurs Complémens représentés par lʼexemple P, il
+nous reste à examiner le troisieme exemple Q, qui exprime en Notes les rapports des quartés
+des Ordonnées, & qui donne le Systême des Dissonances.
+Si lʼon joint, par Accords simultanées, cʼest-à-dire par Consonnances, les Intervalles
+successifs de lʼexemple O, comme on a fait dans la Figure 8. même Planche I, lʼon trouvera que
+quarrer les Ordonnées cʼest doubler lʼlntervalle quʼelles représentent. Ainsi, ajoutant un
+troisieme Son qui représentent le quarré, ce Son ajouté doublera toujours lʼlntervalle de la
+Consonnance, comme on le voit Figure 4. de la Planche G.
+Ainsi, (Pl. I Fig. 11.) la premiere Note K de lʼexemple Q double lʼOctave, premier Intervalle de
+lʼexemple O; la [685] deuxieme Note L double la Quinte, second Intervalle; la troisieme Note M
+double la Quarte, troisieme Intervalle, &c. & cʼest ce doublement dʼintervalles quʼexprime la
+Figure 4. de la Pl. G.
+Laissant à par lʼOctave du premier Intervalle, qui, nʼengendrant aucun Son fondamental,
+ne doit point passer pour Harmonique, la Note ajoutée L forme, avec les deux qui sont audessous dʼelle, une proportion continue géométrique en raison sesqui-altere; & les suivantes,
+doublant toujours les Intervalles, forment aussi toujours ces proportions géométriques.
+Mais les Proportions & progressions harmonique & arithmétique qui constituent le Systême
+Consonnant majeur & mineur sont opposées, par leur nature, à la progression géométrique;
+puisque celle-ci résulte essentiellement des mêmes rapports, & les autres de rapports toujours
+différens. Donc, si les deux proportions harmonique & arithmétique sont Consonnantes, la
+proportion géométrique sera Dissonante nécessairement, &, par conséquent, le Systême qui
+résulte de lʼexemple Q, sera le Systême des Dissonances. Mais ce Systême tiré des quarrés des
+Ordonnées est lié aux deux précédens tirés des quarrés des Cordes. Donc le Systême dissonant
+
+Jean-Jacques Rousseau, VOLUME 9. Dictionnaire de musique, in Collection complète des oeuvres, Genève, 1780-1789, vol. 9, in-4°,
+édition en ligne www.rousseauonline.ch, version du 7 octobre 2012.
+
+est de même au Systême universel harmonique.
+Il fait de-là, 1̊. Que tout Accord sera Dissonant lorsquʼil contiendra deux Intervalles
+semblables, autres que IʼOctave; soit que ces Intervalles se trouvent conjoints ou séparés dans
+lʼAccord. 2º. Que de ces deux Intervalles, celui qui appartiendra au Systême harmonique ou
+arithmétique sera [686] Consonnant, & lʼautre Dissonant. Ainsi, dans les dieux exemples S. T.
+dʼAccords Dissonans, (Pl. G. Fig. 6.) les Intervalles G C & c e sont Consonnans, & les Intervalles C
+F & e g Dissonans.
+En rapportant maintenant chaque terme de la Série Dissonante au Son fondamental ou
+engendre C de la Série harmonique, on trouvera que les Dissonances qui résulteront de ce
+rapport seront les suivantes, & les seules directes quʼon puisse établir sur le Systême
+harmonique.
+La premiere est la Neuvieme ou double Quinte L. (Fig. 4.)
+II. La seconde est lʼOnzieme quʼil ne faut pas confondre avec la simple Quarte, attendu que
+la premiere Quarte ou Quarte simple G C, étant dans le Systême harmonique particulier, est
+Consonnante; ce que nʼest pas la deuxieme Quarte ou Onzieme C M, étranger à ce même Systême.
+III. La troisieme est la Douzieme ou Quinte superflue que M. Tartini appelle Accord de
+nouvelle invention, ou parce quʼil en a le premier trouvé le principe, ou parce que Accord sensible
+sur la Médiante en Mode mineur, que nous appellons Quinte superflue, nʼa jamais été admis en
+Italie à cause de son horrible dureté. (Voyez Pl. K. Fig. 3.) la pratique du cet Accord à la Françoise,
+& (Figure 5.) la pratique du même Accord à lʼItalienne.
+Avant que dʼachever lʼénumération commencée, je dois remarquer que la même
+distinction des deux Quartes, Consonnante & Dissonante, que jʼai faite ci-devant, se doit
+entendre de même des deux Tierces majeures de cet Accord & des deux Tierces mineures de
+lʼAccord suivant.
+[687] IV. La quatrieme & derniere Dissonance donnée par la Série est la Quatorzieme H, (Pl.
+G. Fig. 4.) cʼest-à-dire, lʼOctave de la Septieme; Quatorzieme quʼon ne réduit au simple que par
+licence & selon le droit quʼon sʼest attribué dans lʼusage de confondre indifféremment les
+Octaves.
+Si le Systême dissonant se déduit du Systême harmonique, les regles de préparer & sauver les
+Dissonances ne sʼen déduisent pas moins, & lʼon voit, dans la Série harmonique &
+consonnante, la préparation de tous les Sons de la Série arithmétique. En effet, comparant les
+trois Séries O. P. Q. on trouvé toujours dans la progression successive des Sons de la Série O,
+non-seulement, comme on vient de voir, les raisons simples, qui, doublées, donnent les Sons de
+la Série Q, mais encore les mêmes Intervalles que forment entrʼeux les Sons des deux P & Q. De
+sorte que la Série O prépare toujours antérieurement ce que donnent ensuite les deux Séries P &
+Q.
+Ainsi, le premier Intervalle de la Série O, est celui de la Corde à vide à son Octave, &
+lʼOctave est aussi lʼIntervalle ou Accord que donne le premier Son de la Série Q, comparé au
+premier Son de la Série P.
+
+Jean-Jacques Rousseau, VOLUME 9. Dictionnaire de musique, in Collection complète des oeuvres, Genève, 1780-1789, vol. 9, in-4°,
+édition en ligne www.rousseauonline.ch, version du 7 octobre 2012.
+
+De même, le second Intervalle de la Série O, (comptant toujours de la Corde entiere) est
+une Douzieme; lʼIntervalle ou Accord du second Son de la Série Q, comparé au second Son de la
+Série P, est aussi une Douzieme. Le troisieme, de part & dʼautre, est une double Octave; ainsi de
+suite.
+De plus, si lʼon compare la Série P à la Corde entiere, (Pl. K. Fig. 6) on trouvera exactement
+les mêmes Intervalles [688] qui donne antérieurement la Série O, savoir Octave, Quinte,
+Quarte, Tierce majeure, & Tierce mineure.
+Dʼoù il suit que la Série harmonique particuliere donne avec précision, non-seulement
+lʼexemplaire & le modele des deux Séries arithmétique & géométrique, quʼelle engendre, & qui
+completent avec elle le Systême harmonique universel; mais aussi prescrit à lʼune lʼordre de ses
+Sons, & prépare à lʼautre lʼemploi de ses Dissonances.
+Cette préparation, donnée par la Série harmonique, est exactement la même qui st établie
+dans la pratique: car la Neuvieme, doublée de la Quinte, se prépare aussi par un mouvement de
+Quinte; lʼOnzieme, doublée de la Quarte, se prépare par un mouvement de Quarte; la Douzieme
+ou Quinte superflue, doublée de la Tierce majeure, se prépare par un mouvement de Tierce
+majeure; enfin la Quatorzieme ou la Fausse-Quinte, doublée de la Tierce mineure, se prépare
+aussi par un mouvement de Tierce mineure.
+Il est vrai quʼil ne faut pas chercher ces préparations dans des marches appelles
+fondamentales dans le Systême de M. Rameau, mais qui ne sont pas telles dans celui de M.
+Tartini; & il est vrai encore quʼon prépare les mêmes Dissonances de beaucoup dʼautres
+manieres, soit par des Renversemens dʼHarmonie, soit par des Basses substituées; mais tout
+découle toujours du même principe, & ce nʼest pas ici le lieu dʼentrer dans le détail des regles.
+Celle de résoudre & sauver les Dissonances naît du même principe que leur préparation;
+car comme chaque Dissonance est préparée par le rapport antécédent du Systême harmonique,
+[689] de même elle est sauvée par le rapport conséquent du même Systême.
+Ainsi, dans la Série harmonique le rapport 2/3; ou le progrès de Quinte étant celui dont la
+Neuvieme est préparée & doublée, le rapport suivant 3/4 ou progrès de Quarte, est celui dont
+cette même Neuvieme doit être sauvée: la Neuvieme doit donc descendre dʼun degré pour venir
+chercher dans la Série harmonique lʼUnisson de ce deuxieme progrès, & par conséquent
+lʼOctave du Son fondamental. (Pl. G. Fig. 7.)
+En suivant la même méthode, on trouvera que lʼOnzieme F doit descendre de même dʼun
+Degré sur lʼUnisson E de la Série harmonique selon le rapport correspondant 4/5, que la
+Douzieme ou Quinte superflue G Dièse doit redescendre sur le même G naturel selon le rapport
+5/6; où lʼon voit la raison jusquʼici tout-à-fait ignorée, pourquoi la Basse doit monter pour
+préparer les Dissonance, & pourquoi le Dessus doit descendre pour les sauver. On peut
+remarquer aussi que la Septieme qui, dans le Systême de M. Rameau, est la premiere & presque
+lʼunique Dissonance, est la derniere en rang dans celui de M. Tartini; tant il faut que ces deux
+Auteurs soient opposés en toute chose!
+Si lʼon a bien compris les générations & analogies des trois Ordres ou Systêmes, tous fondés
+sur le premier, donne par la nature, & tous représentés par les parties du cercle ou par leurs
+puissances, on trouvera 1°. Que le Systêmes harmonique particulier, qui donne le Mode majeur,
+est produit par la division sextuple en progression harmonique du Diametre ou de la Corde
+entiere, considérée comme lʼunité. [690] 2º. Que le Systême arithmétique, dʼou résulte le Mode
+
+Jean-Jacques Rousseau, VOLUME 9. Dictionnaire de musique, in Collection complète des oeuvres, Genève, 1780-1789, vol. 9, in-4°,
+édition en ligne www.rousseauonline.ch, version du 7 octobre 2012.
+
+mineur, est produit par la Série arithmétique des Complémens, prenant le moindre terme pour
+lʼunité, & lʼélevant de terme, en terme jusquʼà la raison sextuple, qui donne enfin le Diametre
+ou la Corde entiere. 3º. Que le Systême géométrique ou dissonant est aussi tiré du Systême
+harmonique particulier, en doublant la raison de chaque Intervalle; dʼoù il suit que le Systême
+harmonique du Mode majeur, le seul immédiatement donne par la nature,: sort de principe &
+de fondement aux deux autres.
+Par ce qui a été, dit jusquʼici, on voit que le Systême harmonique nʼest point composé de
+parties qui se réunissent pour former un tout; mais quʼau contraire, cʼest de la division du tout
+ou de lʼunité intégrale que se tirent les parties; que lʼAccord ne se forme point des Sons, mais
+quʼil les donne; & quʼenfin. par-tout où le Systême harmonique a lieu, lʼHarmonique ne dérive
+point de la Mélodie, mais la Mélodie de lʼHarmonie.
+Les élémens de la Mélodie diatonique sont contenus dans les Degrés successifs de lʼEchelle
+ou Octave commune du Mode majeur commençant par C, de laquelle se tire aussi lʼEchelle du
+Mode mineur commençant par A.
+Cette Echelle nʼétant pas exactement dans lʼordre des aliquotes nʼest pas non nus celle que
+donne les divisions naturelles des Cors, Trempettes marines de autres Instrumens semblables;
+comme on peut le voir dans la Figure 1. de la Planche K. par la comparaison de ces deux Echelles;
+comparaison qui montre en même tems la cause des Tons faux [691] donnes par ces Instrumens.
+Cependant lʼEchelle commune, pour nʼêtre pas dʼaccord avec la Série des aliquotes, nʼen a pas
+moins une origine physique & naturelle quʼil faut développer.
+La portion de la premiere Série O, (PI. I. Fig.10.)qui détermine le Systême harmonique est la
+sesquialtere ou Quinte C G; cʼest-à-dire lʼOctave harmoniquement divisée. Or, les deux termes
+qui correspondent à ceux-la dans la Série P des Complémens, (Fig. 11.) sont les Notes G F. Ces
+deux Cordes sont moyennes, lʼune harmonique, & lʼautre arithmétique entre la Corde entiere &
+sa moitié, ou entre le Diametre & le rayon, & ces cieux moyennes G & F se rapportant toutes
+deux à la même Fondamentale, déterminent le Ton & même le Mode, puisque la proportion
+harmonique y domine & quʼelles paroissent avant la génération du Mode mineur: nʼayant donc
+dʼautre loi que celle qui est déterminée par la Série harmonique dont elles dérivent, elles
+doivent en porter lʼune & lʼautre le caractere; savoir, lʼAccord parfait majeur composé de Tierce
+majeure & de Quinte.
+Si donc on rapporte & range successivement, selon lʼordre le plus rapproché, les Notes qui
+constituent ces trois Accords, on aura très-exactement, tant en Notes musicales quʼen rapports
+numériques, lʼOctave ou Echelle diatonique ordinaire rigoureusement établie.
+En Notes, la chose est évidente par la seule opération.
+En rapports numériques, cela se prouve presque aussi facilement: car supposant 360 pour
+la longueur de la Corde entiere, ces trois Notes C, G, F, seront comme 180, 240, 270; leurs
+Accords seront comme dans la Figure 8. Planche G.,[692] & lʼEchelle entiere qui sʼen déduit, sera
+dans les rapports marqués Planche K. Figure 2; où lʼon voit que tous les Intervalles sont justes,
+excepté lʼAccord parfait D F A, dans lequel la Quinte DA est foible dʼun Comma de même que la
+Tierce mineure D F, à cause du Ton mineur D E; mais dans tout Systême ce défaut ou lʼéquivalent
+est inévitable.
+
+Jean-Jacques Rousseau, VOLUME 9. Dictionnaire de musique, in Collection complète des oeuvres, Genève, 1780-1789, vol. 9, in-4°,
+édition en ligne www.rousseauonline.ch, version du 7 octobre 2012.
+
+Quant aux autres altérations que la nécessité dʼemployer les mêmes touches en divers
+Tons introduit dans notre Echelle, voyez TEMPÉRAMENT.
+LʼEchelle une fois établie, le principal usage des trois Notes C, G, F, dont elle est tirée, est la
+formation des Cadences qui, donnant un progrès de Notes fondamentales de lʼune à lʼautre,
+sont la Basse de toute la Modulation. G, étant moyen harmonique, & F moyen arithmétique
+entre les deux termes de lʼOctave, le passage du moyen à lʼextrême forme une Cadence qui tire
+son nom du moyen qui la produit. G C est donc une Cadence harmonique, F C une Cadence
+arithmétique, & lʼon appelle Cadence mixte celle qui, du moyen arithmétique passant au
+moyen harmonique, se compose des deux avant de se résoudre sur lʼextrême.
+(Pl. K. Fig. 4).
+De ces trois Cadences, lʼharmonique est la principale & la premiere en ordre: son effet est
+dʼune Harmonie mâle, forte & terminant un sens absolu. Lʼarithmétique est foible, douce, &
+laissé encore quelque chose à desirer. La Cadence mixte suspend le sens & produit à-peu-près
+lʼeffet du point interrogatif & admiratif.
+De la succession naturelle de ces trois Cadences telle quʼon [693] la voit même Planche K.
+Figure 7, résulte exactement la Basse-fondamentale de lʼEchelle; & de leurs divers
+entrelacemens se tire la maniere de traiter un Ton quelconque, & dʼy moduler une suite de
+Chants; car chaque Note de la Cadence est supposée porter lʼAccord parfait, comme il a été dit
+ci-devant.
+A lʼégard de ce quʼon appelle la Regle de lʼOctave, (voy. ce mot), il est évident que, quand
+même on admettroit lʼHarmonie quʼelle indique pour pure & réguliere, comme on ne la trouvé
+quʼà forcé dʼart & de déductions, elle ne peut jamais être proposée en qualité de principe & de
+loi générale.
+Les Compositeurs du quinzieme siecle, excellens Harmonistes pour la plupart,
+employoient toute lʼEchelle comme Basse-fondamentale dʼautant dʼAccords parfaits quʼelle
+avoit de Notes, excepté la Septieme, à cause de la Quinte fausse; & cette Harmonie bien
+conduite eût un fort grand effet, si lʼAccord parfait sur la Médiante nʼeût été rendu trop dur par
+ses deux fausses Relations avec lʼAccord qui le précede & avec celui qui le suit. Pour rendre cette
+suite dʼAccords parfaits aussi pure & douce quʼil est possible, il faut la réduire à cette autre
+Basse-fondamentale, (Fig. 8.) qui fournit, avec la précédente, une nouvelle source de variétés.
+Comme on trouvé dans cette formule deux Accords parfaits en Tierce mineure, savoir, D &
+A, il est bon de chercher lʼanalogie que doivent avoir entrʼeux les Tons majeurs & mineurs dans
+une Modulation réguliere.
+Considérons (Pl. I. Fig. 11) la Note e b de lʼexemple P unie aux deux Notes correspondantes
+des exemples O & Q [694] prise pour fondamentale, elle se trouvé ainsi base ou fondement dʼun
+Accord en Tierce majeur; mais prise pour moyen arithmétique entré la Corde entiere & sa
+Quinte, comme dans lʼexemple X, (Fig. 13.) elle se trouvé alors Médiante ou seconde base du
+Mode mineur; ainsi cette même Note considérée sous deux rapports différens, & tous deux
+déduits du Systême, donne deux Harmonies: dʼoù il suit que lʼEchelle du Mode majeur est dʼune
+Tierce mineure au-dessus de lʼEchelle analogue du Mode mineur. Ainsi le Mode mineur
+analogue à lʼEchelle dʼut est celui de la, & le Mode mineur analogue à celui de fa est celui de re.
+Or, la & re donnent exactement, dans la Base-fondamentale de lʼEchelle diatonique, les deux
+Accords mineurs analogues aux deux Tons dʼut & de fa déterminés par les deux Cadences
+
+Jean-Jacques Rousseau, VOLUME 9. Dictionnaire de musique, in Collection complète des oeuvres, Genève, 1780-1789, vol. 9, in-4°,
+édition en ligne www.rousseauonline.ch, version du 7 octobre 2012.
+
+harmoniques dʼut à fa & de sol à ut. La Basse-fondamentale ou lʼon fait entrer ces deux Accords
+est donc aussi réguliere & plus variée que la précédente, qui ne renferme que lʼHarmonie du
+Mode majeur.
+A égard des deux dernieres Dissonances N & R de lʼexemple Q, comme elles sortent du
+Genre Diatomique, nous nʼen parlerons que ci-après.
+Lʼorigine de la Mesure, des Périodes, des Phrases & de tout Rhythme musical, se trouvé
+aussi dans la génération des dans leur suite naturelle, & dans leurs diverses combinaisons.
+Premiérement, le moyen étant homogene à son extrême, les deux membres dʼune Cadence
+doivent, dans leur premiere simplicité, être de même nature & de valeurs égales: par
+conséquent les huit Notes qui forment les [695] quatre Cadences,
+Basse-fondamentale de lʼEchelle, sont égales entrʼelles, & formant aussi quatre Mesures
+égales, une pour chaque Cadence, le tout donne un sens complet & une période harmonique. De
+plus, comme tout le Systême harmonique est fondé sur la raison double & sur la sesquialtere,
+qui, à cause de lʼOctave, se confond avec la raison triple; de même toute Mesure bonne &
+sensible se résout en celle à deux Tems ou en celle à trois: tout ce qui est au-delà, souvent tenté
+& toujours sans succès, ne pouvant produire aucun bon effet.
+Des divers fondemens dʼHarmonie donnés par les trois sortes de Cadences, & des diverses
+manieres de les entrelacer, naît la variété des sens, des phrases & de toute la Mélodie dont
+lʼhabile Musicien exprime toute celle des phrases du discours, & ponctue les Sons: aussi
+correctement que le Grammairien les paroles. De la Mesure donnée par les Cadences résulte
+aussi lʼexacte expression de la prosodie & du Rhythme: car comme la syllabe breve sʼappuie sur
+la longue, de même la Note qui prépare la cadence en levant sʼappuie & pose sur la Note qui la
+résout en frappant; ce qui divisé les Tems en forts & en foibles, comme les syllabes en longues &
+en breves: cela montre comment on peut, même en observant les quantités, renverser la
+prosodie & tout mesurer à contre-tems, lorsquʼon frappe les syllabes breves & quʼon leve les
+longues, quoiquʼon croye observer leurs durées relatives & leurs valeurs musicales.
+Lʼusage des Notes dissonantes par Degrés conjoints dans les Tems foibles de la Mesure, se
+déduit aussi des [696] principes établis ci-dessus: car supposons lʼéchelle diatonique & mesurée,
+marquée Fig. 9 Pl. K. il est évident que la Note soutenue ou rebattue dans la Basse X, au lieu des
+Notes de la Basse Z, nʼest ainsi tolérée que parce que, revenant toujours dans les Tems forts, elle
+échappe aisément à notre attention dans les Tems foibles, & que les Cadences dont elle tient
+lieu nʼen sont pas moins supposons; ce qui ne pourroit être si les Notes dissonantes
+changeoient de lieu & se frappoient sur les Tems forts.
+Voyons maintenant quels Sons peuvent être ajoutés ou substitués à ceux de lʼéchelle
+diatonique, pour la formation des Genres Chromatique & Enharmonique.
+En insérant dans leur ordre naturel les Sons donnés par la Série des Dissonances, on aura
+premiérement la Note sol Dièse N. (Pl. I. Fig. 11.) qui donne le Genre Chromatique & le passage
+régulier du Ton majeur dʼut à son mineur correspondant
+Puis on a la Note R ou si Bémol, laquelle, avec celle dont je viens de parler, donne le Genre
+Enharmonique. (Fig. 11.)
+Quoique, eu égard au Diatonique, tout le Systême harmonique soit, comme on a vu,
+renfermé dans la raison sextuple; cependant les divisions ne sont pas tellement bornées à cette
+étendue quʼentre la Dix-neuvieme ou triple Quinte 1/6, & la Vingt-deuxieme ou quadruple
+
+Jean-Jacques Rousseau, VOLUME 9. Dictionnaire de musique, in Collection complète des oeuvres, Genève, 1780-1789, vol. 9, in-4°,
+édition en ligne www.rousseauonline.ch, version du 7 octobre 2012.
+
+Octave 1/8, on ne puisse encore inférer une moyenne harmonique 1/7 prise dans lʼordre des
+aliquotes, donnée dʼailleurs par la Nature dans les Cors-de-chasse & Trompettes marines, &
+dʼune intonation très-facile sur le Violon.
+[697] Ce terme 1/7, qui devise harmoniquement lʼIntervalle de la Quarte sol ut ou 6/8, ne
+forme pas avec le sol une Tierce mineure juste, dont le rapport seroit 5/6, mais un Intervalle un
+peu moindre, dont le rapport est 6/7; de sorte quʼon ne sauroit exactement lʼexprimer en Note;
+car le la Dièse est déjà trop sort: nous le représenterons par la Note si précédée du signe, un peu
+différent du Bémol ordinaire.
+LʼEchelle augmentée, ou, comme disoient les Grecs, le Genre épaissi de ces trois nouveaux
+Sons placés dans leur rang, sera donc comme lʼexemple 12, Planche K. Le tout pour le même Ton,
+ou du moins pour les Tons naturellement analogues.
+De ces trois Sons ajoutés, dont, comme le fait voir M. Tartini, le premier constitue le Genre
+Chromatique, & le troisieme lʼEnharmonique, le sol Dièse & le si Bémol sont dans lʼordre des
+Dissonances: mais le si ne laissé pas dʼêtre Consonnant, quoiquʼil nʼappartienne pas a au Genre
+Diatonique, étant hors de la progression sextuple qui renferme & détermine ce Genre: car
+puisquʼil est immédiatement donne par la Série harmonique des aliquotes, puisquʼil est moyen
+harmonique entre la Quinte & lʼOctave du Son fondamental, il sʼensuit quʼil est Consonnant
+comme eux, & nʼa pas besoin dʼêtre ni préparé ni sauvé; cʼest aussi ce que lʼoreille confirme
+parfaitement dans lʼemploi régulier de cette espece de Septieme.
+A lʼaide de ce nouveau Son, la Basse de lʼEchelle diatonique retourne exactement sur ellemême, en descendant, [698] selon la nature du cercle qui la représente; & la Quatorzieme ou
+Septieme redoublée se trouvé alors sauvée régulièrement par cette Note sur la Basse-tonique
+ou fondamentale, comme toutes les autres Dissonances.
+Voulez-vous, des principes ci-devant posés, déduire les regles de la Molles de la
+Modulation, prenez les trois Tons majeurs relatifs, ut, sol, fa, & les trois Tons mineurs
+analogues, la, mi, re; vous aurez six Toniques, & ce sont les seules sur lesquelles on puisse
+moduler en sortant du Ton principal; Modulations quʼon entrelace à son choix, selon le
+caractere du Chant & lʼexpression des paroles: non, cependant, quʼentre ces Modulations il nʼy
+en ait de préférables à dʼautres; même ces préférences, trouvées dʼabord par le sentiment, ont
+aussi leurs raisons dans les principes, & leurs exceptions, soit dans les impressions diverses
+que veut faire le Compositeur, soit dans la liaison plus ou moins grande quʼil veut donner à ses
+phrases. Par exemple, la plus naturelle & la plus agréable de toutes les Modulations en Mode
+majeur, est celle qui passe de la Tonique ut au Ton de sa Dominante sol; parce que le Mode
+majeur étant fondé sur des divisions harmoniques, & la Dominante divisant lʼOctave
+harmoniquement, le passage du premier terme au moyen est le plus naturel. Au contraire, dans
+le Mode mineur la, fondé sur la proportion arithmétique, le passage au lʼon de la quatrieme
+Note re, qui devise lʼOctave arithmétiquement, est beaucoup plus naturel que le passage au Ton
+mi de la Dominante, qui devise harmoniquement la même Octave; & si lʼon y regarde
+attentivement, on trouvera [699] que les Modulations plus ou moins agréables dépendent
+toutes des plus grands ou moindres rapports établis dans ce Systême.
+
+Jean-Jacques Rousseau, VOLUME 9. Dictionnaire de musique, in Collection complète des oeuvres, Genève, 1780-1789, vol. 9, in-4°,
+édition en ligne www.rousseauonline.ch, version du 7 octobre 2012.
+
+Examinons maintenant les Accords ou Intervalles particuliers au Mode mineur, qui se
+déduisent des Sons ajoutés à lʼEchelle. (Pl. I. Fig. 12.)
+Lʼanalogie entre les deux Modes donne les trois Accords marqués Fig. 14. de la Planche K.
+dont tous les Sons ont été trouvés Consonnans dans lʼétablissement du Mode majeur. Il nʼy a
+que le Son ajouté g dont la Consonnance puisse être disputée.
+Il faut remarquer dʼabord que cet Accord ne se résout point en lʼAccord dissonant de
+Septieme diminuée qui auroit sol Dièse pour Basse, parce quʼoutre la Septieme diminuée sol
+Dièse & fa naturel sʼy trouvé encore une Tierce diminuée sol Dièse & si Bémol, qui rompt, toute
+proportion; ce que lʼexpérience confirme par lʼinsurmontable rudesse de cet Accord. Au
+contraire, outre que cet arrangement de Sixte superflue plaît à lʼoreille & se résout trèsharmonieusement, M. Tartini prétend que lʼIntervalle est réellement bon, régulier & même
+consonnant. 1º. Parce que cette Sixte est à très-peu près Quatrième harmonique aux trois Notes
+Bb, d, f, représentées par les fractions 1/4 1/5 1/6, dont 1/7 est la Quatrieme proportionnelle
+harmonique exacte. 2º. Parce que cette même Sixte est a très-peu-prés moyenne harmonique
+de la Quarte fa, si Bémol, formée par la Quinte du Son fondamental & par son Octave. Que si
+lʼon emploie en cette occasion la Note marquée sol Dièse plutôt que la Note marquée [700] la
+Bémol, qui semble être le vrai moyen harmonique; cʼest non-seulement que cette division nous
+rejetteroit fort loin du Mode, mais encore que cette même Note la Bémol nʼest moyenne
+Harmonique quʼen apparence; attendu que la Quarte fa, si Bémol, est altérée & trop foible dʼun
+Comma; de sorte que sol Dièse, qui a un moindre rapport à fa, approche plus du vrai moyen
+harmonique que la Bémol, qui a un plus grand rapport au même fa.
+Au reste, on doit observer que tous les Sons de cet Accord qui réunissent ainsi en une
+Harmonie réguliere & simultanée, sont exactement les quatre mêmes Sons fournis ci-devant
+dans la Série dissonante Q par le complémens des divisions de la Sextuple harmonique: ce qui
+ferme, en quelque maniere, le cercle harmonieux, & confirme la liaison de toutes les parties du
+Systême.
+A lʼaide de cette Sixte & de tous les autres Sons que la proportion harmonique & lʼanalogie
+fournissent dans le Mode mineur, on a un moyen facile de prolonger & varier assez long-tems
+lʼHarmonie sans sortir du Mode, ni même employer aucune véritable Dissonance; comme on
+peut le voir dans lʼexemple de Contre-point donne par M. Tartini dans lequel il prétend nʼavoir
+employé aucune Dissonance, si ce nʼest la Quarte-&-Quinte finale.
+Cette même Sixte superflue a encore des usages plus importans & plus fins dans les
+Modulations détournées de passages enharmoniques, en ce quʼelle peut se prendre
+indifféremment dans la pratique pour la Septieme bémolisée par le signe de laquelle cette Sixte
+diésée différé très-peu [701] dans le calcul & point du tout sur le Clavier. Alors cette Septieme ou
+cette Sixte, toujours consonnante, mais marquée tantôt par Dièse & tantôt par Bémol, selon le
+Ton dʼoù lʼon sort, & celui lʼon entre, produit dans lʼHarmonie dʼapparentes & subites
+métamorphoses, dont, quoique régulieres dans ce Systême, le Compositeur auroit bien de la
+peine à rendre raison dans tout autre; comme on peut le voir dans les exemples I, II, III, de la
+Planche M, surtout dans celui marqué +, où le fa pris pour naturel, & formant une Septieme
+apparente quʼon ne sauve point, nʼest au fond quʼune Sixte superflue formée par un mi Dièse
+sur le sol de la Basse; ce qui rentre dans la rigueur des regles. Mais il est superflu de sʼétendre
+sur ces finesses de le lʼArt, qui nʼéchappent pas aux grands Harmonistes, & dont les autres ne
+
+Jean-Jacques Rousseau, VOLUME 9. Dictionnaire de musique, in Collection complète des oeuvres, Genève, 1780-1789, vol. 9, in-4°,
+édition en ligne www.rousseauonline.ch, version du 7 octobre 2012.
+
+feroient quʼabuser en les employant mal-à-propos. Il suffit dʼavoir montré que tour se tient par
+quelque côté, & que le vrai Systême de la Nature mene aux plus cachés détours de lʼArt.
+[702]
+
+T
+Cette lettre sʼécrit quelquefois dans les Partitions pour désigner la Partie de la Taille,
+lorsque cette Taille prend la place de la Basse & quʼelle est écrite sur la même Portée, la Basse
+gardant le Tacet.
+Quelquefois dans les Parties de Symphonie le T signifie Tous ou Tutti, & est opposé à la
+lettre S, ou au mot Seul ou Solo, qui alors doit nécessairement avoir été écrit auparavant dans la
+même Partie.
+TA. Lʼune des quatre syllabes avec lesquelles les Grecs solfioient la Musique. (Voyez
+SOLFIER.)
+TABLATURE. Ce mot signifioit autrefois la totalité des sigues de la Musique; de sorte que,
+qui connoissoit bien la Note & pouvoir chanter à livré ouvert, étoit dit la Tablature.
+Aujourdʼhui le mot Tablature se restreint à une certaine maniere de noter par lettres, quʼon
+emploie pour les Instrumens à Cordes qui se touchent avec les doigts, tels que le Luth, la
+Guitare, le Cistre, & autrefois le Théorbe & la Viole.
+Pour noter en Tablature, on tire autant de lignes paralleles que lʼInstrument a de Cordes. On
+écrit ensuite sur ces lignes des lettres de lʼalphabet, qui indiquent les diverses positions des
+doigts sur la Corde de semi-Ton en semi-Ton. La lettre a indique la Corde à vide, b indique la
+premiere Position, c la seconde, d la troisieme, &c.
+[703] A lʼégard des valeurs des Notes, on les marque par des Notes ordinaires de valeurs
+semblables, toutes placées sur une même ligne, parce que ces Notes ne servent quʼà marquer la
+valeur & non le Degré. Quand les valeurs sont toujours semblables, cʼest-à-dire, que la maniere
+de scander les Notes est la même dans toutes les Mesures, on se contente de la marquer dans la
+premiere, & lʼon suit.
+Voilà tout le mystere de la Tablature, lequel achevera de sʼéclaircir par lʼinspection de la
+Figure 4 Planche M où jʼai noté le premier couplet des folies dʼEspagne en Tablature pour la Guitare.
+Comme les Instrumens pour lesquels on employoit la Tablature sont la plupart hors
+dʼusage, & que, pour ceux dont on joue encore, on a trouvé la Note ordinaire plus commode, la
+Tablature est presque entiérement abandonnée, ou ne sert quʼaux premieres des écoliers.
+TABLEAU. Ce mot sʼemploie souvent en Musique pour désigner la réunion de plusieurs
+objets formant un tout peint par la Musique imitative. Le Tableau de cet Air est bien dessiné; ce
+Choeur fait Tableau; cet Opéra est plein de Tableaux admirables.
+TACET. Mot latin quʼon emploie dans la Musique pour indiquer le silence dʼune Partie.
+Quand, dans le cours dʼun morceau de Musique, on veut marquer un silence dʼun certain tems,
+
+Jean-Jacques Rousseau, VOLUME 9. Dictionnaire de musique, in Collection complète des oeuvres, Genève, 1780-1789, vol. 9, in-4°,
+édition en ligne www.rousseauonline.ch, version du 7 octobre 2012.
+
+on lʼécrit avec des Bâtons ou des Pauses: (Voy. ces mots.) Mais quand quelque Partie doit garder
+le silence durant un morceau entier, on exprime cela par le mot Tacet écrit dans cette Partie audessus du nom de lʼAir ou des premieres Notes du Chant.
+[704] TAILLE anciennement TENOR. La seconde des quatre Parties de la Musique, en
+comptant du grave à lʼaigu. Cʼest la Partie qui convient le mieux à la voix dʼhomme la plus
+commune; ce qui fait quʼon lʼappelle aussi Voix humaine par excellence.
+La Taille se devise quelquefois en deux autres Parties; lʼune plus élevée, quʼon appelle
+Premiere ou haute-Taille; lʼautre plus basse, quʼon appelle Seconde ou basse-Taille. Cette derniere est
+en quelque maniere une Partie mitoyenne ou commune entre la Taille & la Basse & sʼappelle
+aussi, à cause de cela, Concordant. (Voyez PARTIES.)
+On nʼemploie presquʼaucun rolle de Taille dans les Opéra François: au contraire les Italiens
+préferent dans les leurs le Tenor à la Basse, comme une Voix plus flexible, aussi sonore, &
+beaucoup moins dure.
+TAMBOURIN. Sorte de Danse fort à la mode aujourdʼhui sur les Théâtres François. Lʼair en
+est très-gai & se bat à deux Tems vifs. Il doit être sautillant & bien cadencé, à lʼimitation du
+Flutet des Provençaux; & la Basse doit refrapper la mémé Note, à lʼimitation du Tambourin ou
+Galoubé, dont celui qui joue du Flutet sʼaccompagne ordinairement.
+TASTO SOLO. Ces deux mots Italiens écrits dans une Basse-continue, & dʼordinaire sous
+quelque Point-dʼOrgue, marquent que lʼAccompagnateur ne doit faire aucun Accord de la main
+droite, mais seulement frapper de la gauche la Note marquée, & tout au plus son Octave, sans y
+rien ajouter, attendu quʼil lui seroit presque impossible de deviner [705] & suivre la tournure
+dʼHarmonie ou les Notes de goût que le Compositeur fait passer sur la Basse durant ce tems-là.
+TE. Lʼune des quatre syllabes par lesquelles les Grecs solfient la Musique. (Voyez SOLFIER.)
+TEMPERAMENT. Opération par laquelle, au moyen dʼune légere altération dans les
+Intervalles, faisant évanouir la différence de deux Sons voisins, on les confond en un, qui, sans
+choquer lʼoreille, forme les Intervalles respectifs de lʼun & de lʼautre. Par cette opération lʼon
+simplifie lʼEchelle, en diminuant le nombre des Sons nécessaires. Sans le Tempérament, au lieu
+de douze Sons seulement que contient lʼOctave, il en faudroit plus de soixante pour moduler
+dans tous les Tons.
+Sur lʼOrgue, sur le Clavecin, sur tout autre Instrument à Clavier, il nʼy a, & il ne peut gueres
+y avoir dʼIntervalle parfaitement dʼAccord que la seule Octave. La raison en est que trois
+Tierces majeure ou quarte Tierces mineures devant faire une Octave juste, celles-ci la passent &
+les autres nʼy arrivent pas. Car 5/4 x 5/4 x 5/4 = 125/64 < 128/64 = 2/1; & 6/5 x 6/5 x 6/5 =
+1295/624 > 1296/628 = 2/1. Ainsi lʼon est contraint de renforcer les Tierces majeures & dʼaffoiblir
+les mineures pour que les Octaves & tous les autres Intervalles se correspondent exactement, &
+que les mêmes touches puissent être employées sous leurs divers rapports. Dans un moment je
+dirai comment cela se fait.
+Cette nécessité ne se fit pas sentir tout-dʼun-coup, on ne la reconnut quʼen perfectionnant
+le Systême musical. Pythagore, qui trouva le premier les rapports des Intervalles harmoniques,
+[706] prétendoit que ces rapports fussent observés dans toute la rigueur mathématique, sans
+rien accorder à la tolérance de lʼoreille. Cette sévérité pouvoir être bonne pour son tems où
+toute lʼétendue du Systême se bornoit encore à un si petit nombre de Cordes. Mais comme la
+
+Jean-Jacques Rousseau, VOLUME 9. Dictionnaire de musique, in Collection complète des oeuvres, Genève, 1780-1789, vol. 9, in-4°,
+édition en ligne www.rousseauonline.ch, version du 7 octobre 2012.
+
+plupart des Instrumens des Anciens étoient composés de Cordes qui se touchoient à vide, &
+quʼil leur faloit, par conséquent, une Corde pour chaque Son, à mesure que le Systême sʼétendit,
+ils sʼapperçurent que la regle de Pythagore, en trop multipliant les Cordes, empêchoit dʼen tirer
+les usages convenables.
+Aristoxène, disciple dʼAristote, voyant combien lʼexactitude des calculs nuisoit aux
+progrès de la Musique & à la facilité de lʼexécution, prit tout-dʼun-coup lʼautre extrémité;
+abandonnant presque entiérement le calcul, il sʼen remit au seul jugement de lʼoreille, & rejetta
+comme inutile tout ce que Pythagore avoir établi.
+Cela forma dans la Musique deux sectes qui ont long-tems divisé les Grecs, lʼune des
+Aristoxéniens, qui étoient les Musiciens de pratique; lʼautre des Pythagoriciens, qui étoient les
+Philosophes. (Voyez Aristoxéniens & PYTHAGORICIENS.)
+Dans la suite, Ptolomée & Dydyme, trouvant avec raison, que Pythagore & Aristoxène
+avoient donne dans deux excès également vicieux, & consultant à la fois les sens & la raison,
+travaillerent chacun de leur côté à la réforme de lʼancien Systême diatonique. Mais comme ils ne
+sʼéloignerent pas des principes établis pour la division du Tétracorde, & [707] que reconnoissant
+enfin la différence du Ton majeur au Ton mineur, ils nʼoserent toucher à celui-ci pour le
+partager comme lʼautre par une Corde chromatique en deux Parties réputées égales; le Systême
+demeura encore long-tems dans un état dʼimperfection qui ne permettoit pas dʼappercevoir le
+vrai principe du Tempérament.
+Enfin vint Guy dʼArezzo qui refondit en quelque maniere la Musique & inventa, dit-on, le
+Clavecin. Or, il est certain que cet Instrument nʼa pu exister, non plus que lʼOrgue, que lʼon nʼait
+en même tems trouvé le Tempérament, sans lequel il est impossible de les accorder, & il est
+impossible au moins que la premiere invention ait de beaucoup précédé la seconde; cʼest à-peuprès tout ce que nous en savons.
+Mais quoique la nécessité du Tempérament soit connue depuis long-tems, il nʼen est pas de
+même de la meilleure regle à suivre pour le déterminer. Le siecle dernier, qui fut le siecle des
+découvertes en tout genre, est le premier qui nous ait donne des lumieres bien nettes sur ce
+chapitre. Le P. Mersenne & M. Loulié ont fait des calculs; M. Sauveur a trouvé des divisions qui
+fournissent tous les Tempéramens possibles; enfin, M. Rameau, après tous les autres, a cru
+développer le premier la véritable théorie du Tempérament, & a même prétendu, sur cette
+théorie, établir comme neuve une pratique très-ancienne dont je parlerai dans un moment.
+Jʼai dit quʼil sʼagissoit pour tempérer les Sons du Clavier, de renforcer les Tierces majeures,
+dʼaffoiblir les mineures, [708] & de distribuer ces altérations de maniere à les rendre le moins
+sensibles quʼil étoit possible. Il faut pour cela répartir sur lʼAccord de lʼInstrument, & cet
+Accord se fait ordinairement par Quintes; cʼest donc par son effet sur les Quintes que nous
+avons à considérer le Tempérament.
+Si lʼon accorde bien juste quatre Quintes de suite, comme ut sol re la mi, on trouvera que
+cette quatrieme Quinte mi sera, avec lʼut dʼoù lʼon est parti, une Tierce majeure discordante, &
+de beaucoup trop forte; & en effet ce mi, produit comme Quinte de la, nʼest pas le même Son qui
+doit faire la Tierce majeure dʼut. En voici la preuve.
+
+Jean-Jacques Rousseau, VOLUME 9. Dictionnaire de musique, in Collection complète des oeuvres, Genève, 1780-1789, vol. 9, in-4°,
+édition en ligne www.rousseauonline.ch, version du 7 octobre 2012.
+
+Le rapport de la Quinte est 2/3 ou 1/3, à cause des Octaves 1 & 2 prises lʼune pour lʼautre
+indifféremment. Ainsi la succession des Quintes formant une progression triple, donnera ut 1,
+sol 3, re 9, la 27, & mi 81.
+Considérons à présent ce mi comme Tierce majeure dʼut; son rapport est 4/5 ou 1/5, 4
+nʼétant que la double Octave dʼ1. Si dʼOctave en Octave nous rapprochons ce mi du précédent,
+nous trouverons mi 5, mi 10, mi 20, mi 40, & mi 80. Ainsi la Quinte de la étant mi 81, & la Tierce
+majeure dʼut étant mi 80; ces deux mi ne sont pas le même, & leur rapport est 80/81, qui fait
+précisément le Comma majeur.
+Que si nous poursuivons la progression des Dièse, nous trouverons la douzieme puissance
+qui arrive au si Dièse, nous trouverons que ce si excede lʼut dont il devroit faire lʼunisson, & quʼil
+est avec lui dans le rapport de 531441 à 524288, rapport qui donne le Comma de Pythagore. De
+sorte que par le calcul précédent le si Dièse devroit excéder lʼi de trois [709] Comma majeurs; &
+par celui-ci il lʼexcede seulement du Comma de Pythagore.
+Mais il faut que le même Son mi, qui fait la Quinte de la, serve encore à faire la Tierce
+majeure dʼut; il faut que le même si Dièse, qui forme la douzieme Quinte de ce même ut, en fasse
+aussi lʼOctave, & il faut enfin que ces différens Accords concourent à constituer le Systême
+général sans multiplier les Cordes. Voilà ce qui sʼexécute au moyen du Tempérament.
+Pour cela 1º. on commence par lʼut du milieu du Clavier, & lʼon affoiblit les quatre
+premieres Quintes en montant, jusquʼà ce que la quatrieme mi fasse la Tierce majeure bien juste
+avec le premier Son ut; ce quʼon appelle la premiere preuve. 2º. En continuant dʼaccorder par
+Quintes, dès quʼon est arrivé sur les Dièses, on renforce un peu les Quintes, quoique les Tierces
+en souffrent, & quand on est arrivé au sol Dièse, on sʼarrête. Ce sol Dièse doit faire, avec le mi,
+une Tierce majeure juste ou du moins souffrable; cʼest la seconde preuve. 3º. On reprend lʼut &
+lʼon accorde les Quintes au grave; savoir, fa, si Bémol, &c. foibles dʼabord; puis les renforçant
+par Degrés, cʼest-à-dire, affoiblissant les Sons jusquʼà ce quʼon soit parvenu au re Bémol, lequel,
+pris comme ut Dièse, doit se trouver dʼaccord & faire Quinte avec le sol Dièse, auquel on sʼétoit
+ci-devant arrêté; cʼest la troisieme preuve. Les dernieres Quintes se trouveront un peu fortes,
+de même que les Tierces majeures; cʼest ce qui rend les Tons majeurs de si Bémol & de mi Bémol
+sombres & même un peu durs. Mais cette dureté sera supportables [710] si la Partition est bien
+faite, & dʼailleurs ces Tierces, par leur situation, sont moins employées que les premieres, & ne
+doivent lʼêtre que par choix.
+Les Organistes & les Facteurs regardent ce Tempérament comme le plus parfait que lʼon
+puisse employer. En effet, les Tons naturels jouissent par cette méthode de toute la pureté de
+lʼHarmonie, & les Tons transposés, qui forment des modulations moins fréquentes, offrent de
+grandes ressources au Musicien quand il a besoin dʼexpressions plus marquées: car il est bon
+dʼobserver, dit M. Rameau, que nous recevons des impressions différentes des Intervalles à
+proportion de leurs différentes altérations. Par exemple, la Tierce majeure, qui nous excite
+naturellement à la joie, nous imprime jusquʼà des idées de fureur quand elle est trop forte; & la
+Tierce mineure, qui nous porte à la tendresse & à la douceur, nous attriste lorsquʼelle est trop
+foible.
+
+Jean-Jacques Rousseau, VOLUME 9. Dictionnaire de musique, in Collection complète des oeuvres, Genève, 1780-1789, vol. 9, in-4°,
+édition en ligne www.rousseauonline.ch, version du 7 octobre 2012.
+
+Les habiles Musiciens, continue le même Auteur, savent profiter à propos de ces différens
+effets des Intervalles, & sont valoir, par lʼexpression quʼils en tirent, lʼaltération quʼon y
+pourroit condamner.
+Mais, dans si Génération harmonique, le même M. Rameau tient un tout autre langage. Il se
+reproche sa condescendance pour lʼusage actuel, & détruisant tout ce quʼil avoit établi
+auparavant, il donne une formule dʼonze moyennes proportionnelles entre les deux termes de
+lʼOctave, sur laquelle formule, il veut quʼon regle toute la succession du Systême chromatique; de
+sorte que ce Systême résultant de douze semi-Tons parfaitement égaux, cʼest une nécessité [711]
+que tous les Intervalles semblables qui en seront formés soient aussi parfaitement égaux
+entrʼeux.
+Pour la pratique prenez, dit-il, telle touche du Clavecin quʼil vous plaira; accordez-en
+dʼabord la Quinte juste, puis diminuez-la si peu que rien: procédez ainsi dʼune Quinte lʼautre,
+toujours en montant, cʼest-à-dire, du grave à lʼaigu, jusquʼà la derniere dont le Son aigu aura été
+le grave de la premiere; vous pouvez être certain que le Clavecin sera bien dʼaccord.
+Cette méthode que nous propose aujourdʼhui M. Rameau, avoir déjà été proposée &
+abandonnée par le fameux Couperin. On la trouvé aussi tout au long dans le P. Mersenne, qui
+en fait Auteur un nommé Gallé, & qui a même pris la peine de calculer les onze moyennes
+proportionnelles dont M. Rameau nous donne la formule algébrique.
+Malgré lʼair scientifique de cette formule, il ne paroît pas que la pratique qui en résulte ait
+été jusquʼici goûtée des Musiciens ni des Facteurs. Les premiers ne peuvent se résoudre à se
+priver de lʼénergique variété quʼils trouvent dans les diverses affections des Tons
+quʼoccasionne le Tempérament établi. M. Rameau leur dit en vain quʼils se trompent, que la
+variété se trouvé dans lʼentrelacement des Modes ou dans les divers Degrés des Toniques, &
+nullement dans lʼaltération des Intervalles; le Musicien répond que lʼun nʼexclut pas lʼautre,
+quʼil ne se tient pas convaincu par une assertion, & que les divises affections des Tons ne sont
+nullement proportionnelles aux différens Degrés de leur finales. Car, disent-ils, quoiquʼil nʼy
+ait quʼun semi-Ton de distance [712] entre la finale de re & celle de mi Bémol, comme entre la
+finale de la & celle de si Bémol; cependant la même Musique nous affectera très-différemment
+en A la mi re quʼen B fa, & en D sol re quʼen E la fa; & lʼoreille attentive du Musicien ne sʼy
+trompera jamais, quand même le Ton général seroit haussé ou baissé dʼun semi-Ton & plus;
+preuve évidente que la variété vient dʼailleurs que de la simple différente élévation de la
+Tonique.
+
+Jean-Jacques Rousseau, VOLUME 9. Dictionnaire de musique, in Collection complète des oeuvres, Genève, 1780-1789, vol. 9, in-4°,
+édition en ligne www.rousseauonline.ch, version du 7 octobre 2012.
+
+A lʼégard des Facteurs, ils trouvent quʼun Clavecin accordé de cette maniere nʼest point
+aussi bien dʼaccord que lʼassure M. Rameau. Les Tierces majeures leur paroissent dures &
+choquantes, & quand on leur dit quʼils nʼont quʼà se faire à lʼaltération des Tierces comme ils
+sʼétoient faits ci-devant à celle des Quintes, ils répliquent quʼils ne conçoivent pas comment
+lʼOrgue pourra se faire à supprimer les battemens quʼon y entend par cette manière de
+lʼaccorder, ou comment lʼoreille cessera dʼen être offensée. Puisque par la nature des
+Consonnances la Quinte peut être plus altérée que la Tierce sans choquer lʼoreille & sans faire
+des battemens, nʼest-il pas convenable de jetter lʼaltération du côté où elle est le moins
+choquante, & de laisser plus justes, par préférence, les Intervalles quʼon ne peut altérer sans les
+rendre discordans?
+Le P. Mersenne assuroit quʼon disoit de son tems que les premiers qui pratiquèrent sur le
+Clavier les semi-Tons, quʼil appelle feintes, accorderent dʼabord toutes les Quintes à-peu-près
+selon lʼAccord égal proposé par M. Rameau; mais que leur oreille ne pouvant souffrir la
+discordance des Tierces majeures nécessairement trop fortes, ils tempérerent lʼAccord [713] en
+affoiblissant les premieres Quintes pour baisser les Tierces majeures. II paroît donc que
+sʼaccoutumer à cette maniere dʼAccord nʼest pas, pour une oreille exercée & sensible, une
+habitude aisée à prendre.
+Au reste, je ne puis mʼempêcher de rappeller ici ce que jʼai dit au mot CONSONNANCE, sur
+la raison du plaisir que les Consonnances sont à lʼoreille, tirée de la simplicité des rapports. Le
+rapport dʼune Quinte tempérée selon la méthode de M. Rameau est celui-ci. Ce rapport
+cependant plaît à lʼoreille; je demande si cʼest par sa simplicité?
+TEMS. Mesure du Son, quant à la durée.
+Une succession de Sons, quelque bien dirigée quʼelle puisse être dans sa marche, dans ses
+Degrés du grave à lʼaigu ou de lʼaigu au grave, ne produit, pour ainsi dire, que des effets
+indéterminés. Ce sont les durées relatives & proportionnelles de ces mêmes Sons qui fixent le
+vrai caractere dʼune Musique, & lui donnent sa plus grande énergie. Le Tems est lʼame du Chant;
+les Airs dont la mesure est lente, nous attristent naturellement; mais un Air gai, vis & bien
+cadencé nous excite à la joie, & à peine les pieds peuvent-ils se retenir de danser. Otez la
+Mesure, détruisez la proportion des Tems, les mêmes Airs que cette proportion vous rendoit
+agréables, restés sans charme & sans forcé, deviendront incapables de plaire & dʼintéresser. Le
+Tems, au contraire, a sa forcé en lui-même; elle dépend de lui seul, & peut subsister sans la
+diversité des Sons. Le Tambour nous en offre un exemple, grossier toutefois & très-imparfait,
+parce que le Son ne sʼy peut soutenir.
+[714] On considere le Tems en Musique, ou par rapport au mouvement général dʼun Air, &,
+dans ce sens, on dit quʼil est lent ou vite; (Voyez MESURE, MOUVEMENT.) ou, selon les parties
+aliquotes de chaque Mesure, parties qui se marquent par des mouvemens de la main ou du pied
+& quʼon appelle particuliérement des Tems; ou enfin selon la valeur propre de chaque Note.
+(Voyez VALEUR DES NOTES.)
+Jʼai suffisamment parlé, au mot Rhythme, des Tems de la Musique Grecque; il me reste à
+parler ici des Tems de la Musique moderne.
+Nos anciens Musiciens ne reconnoissoient que deux especes de Mesure ou de Tems; lʼune à
+trois Tems, quʼils appelloient Mesure parfaite; lʼautre à deux, quʼils traitoient de Mesure
+imparfaite, & ils appelloient Tems, Modes ou Prolations, les signes quʼils ajoutoient à la Clef pour
+
+Jean-Jacques Rousseau, VOLUME 9. Dictionnaire de musique, in Collection complète des oeuvres, Genève, 1780-1789, vol. 9, in-4°,
+édition en ligne www.rousseauonline.ch, version du 7 octobre 2012.
+
+déterminer lʼune ou lʼautre de ces Mesures. Ces signes ne servoient pas à cet unique usage
+comme ils sont aujourdʼhui; mais ils fixoient aussi la valeur relative des Notes, comme ou a déjà
+pu voir aux mots Mode & Prolation, par rapport à la Maxim, à la Longue & à la semi-Breve. A
+lʼégard de la Breve, la maniere de la diviser étoit ce quʼils appelloient plus précisément Tems, &
+ce Tems étoit parfait ou imparfait.
+Quand le Tems étoit parfait, la Breve ou Quarrée valoit trois Rondes ou semi-Breves; & ils
+indiquoient cela par un cercle entier, barré ou non barré, & quelquefois encore par ce chiffre
+composé 3/x.
+[715] Quand le Tems étoit imparfait, la Breve ne valoit que deux Rondes; & cela se marquoit
+par un demi-cercle ou C. Quelquefois ils tournoient le C à rebours; & cela marquoit une
+diminution de moitié sur la valeur de chaque Note. Nous indiquons aujourdʼhui la même chose
+en barrant le C. Quelques-uns ont aussi appelle Tems mineur cette Mesure du C barré où les
+Notes ne durent que la moitié de leur valeur ordinaire, & Tems majeur celle du C plein ou de la
+Mesure ordinaire a quatre Tems.
+Nous avons bien retenu la Mesure triple des Anciens de même que la double; mais par la
+plus étrange bizarrerie de leurs deux manieres de diviser les Notes, nous nʼavons retenu que la
+sous-double, quoique nous nʼayons pas moins besoin de lʼautre; de sorte que, pour diviser une
+Mesure ou un Tems en trois parties égales, les signes nous manquent, & à peine sait-on
+comment sʼy prendre. Il faut recourir au chiffre 3 & à dʼautres expédiens qui montrent
+lʼinsuffisance des signes. (Voyez TRIPLE.)
+Nous avons ajouté aux anciennes Musiques une combinaison de Tems, qui est la Mesure à
+quatre; mais comme elle se petit toujours résoudre en deux Mesures à deux, on peut dire que
+nous nʼavons absolument que deux Tems & trois Tems pour parties aliquotes de toutes nos
+différentes Mesures.
+Il y a autant de différentes valeurs de Tems quʼil y a de sortes de Mesures & de
+modifications de Mouvement. Mais quand une fois la Mesure & le Mouvement sont
+déterminés, toutes les Mesures doivent être parfaitement égales, & tous [716] les Tems de chaque
+Mesure parfaitement égaux entrʼeux. Or, pour rendre sensible cette égalité, on frappe chaque
+Mesure & lʼon marque chaque Tems par un mouvement de la main ou du pied,& sur ces
+mouvemens on regle exactement les différentes valeurs des Notes, selon le caractere de la
+Mesure. Cʼest une chose étonnante de voir avec quelle précision lʼon vient à bout, à lʼaide dʼun
+peu dʼhabitude, de marquer & de suivre tous les Tems avec une si parfaite égalité, quʼil nʼy a
+point de pendule qui surpasse en justesse la main ou le pied dʼun bon Musicien, & quʼenfin le
+sentiment seul de cette égalité suffit pour le guider & supplée à tout mouvement sensible; en
+sorte que dans un Concert chacun suit la même Mesure avec la derniere précision, sans quʼun
+autre la marque & sans la marquer soi-même.
+
+Jean-Jacques Rousseau, VOLUME 9. Dictionnaire de musique, in Collection complète des oeuvres, Genève, 1780-1789, vol. 9, in-4°,
+édition en ligne www.rousseauonline.ch, version du 7 octobre 2012.
+
+Des divers Tems dʼune Mesure, il y en a de plus sensibles, de plus marqués que dʼautres,
+quoique de valeurs égales. Le Tems qui marque davantage sʼappelle Tems fort; celui qui marque
+moins sʼappelle Tems foible: cʼest ce que M. Rameau, dans son Traité dʼHarmonie, appelle Tems bon
+& Tems mauvais. Les Tems forts sont, le premier dans la Mesure à deux Tems; le premier & le
+troisieme dans les Mesures à trois & quatre. A lʼégard du second Tems, il est toujours foible dans
+toutes les Mesures, & il en est de même du quatrieme dans la Mesure à quatre Tems.
+Si lʼon subdivise chaque Tems en deux autres parties égales, quʼon peut encore appeller Tem
+s ou demi-Tems, on aura derechef Tems fort pour la premiere moitié, Tems foible pour la seconde,
+& il nʼy a point de partie dʼun Tems [717] quʼon ne puisse subdiviser de la même maniere. Toute
+Note qui commence sur le Tems foible & finit sur le Tems fort, est une Note à contre-Tems; & parce
+quʼelle heurte & choque en quelque façon la Mesure, on lʼappelle Syncope. (Voyez SYNCOPE.)
+Ces observations sont nécessaires pour apprendre à bien traiter les Dissonances. Car toute
+Dissonance bien préparée doit lʼêtre sur le Tems foible, & frappée sur le Tems fort; excepté
+cependant dans des suites de Cadences évitées où cette regle, quoiquʼapplicable à la premiere
+Dissonance, ne lʼest pas également aux autres. (Voyez DISSONANCE, PRÉPARER.)
+TENDREMENT. Cet adverbe écrit à la tête dʼun Air indique un Mouvement lent & doux,
+des Sons filés gracieusement & animés dʼune expression tendre & touchante. Les Italiens se
+servent du mot Amoroso pour exprimer à-peu-près la même chose: mais le caractere de lʼ
+Amoroso a plus dʼaccent, & respire je ne sais quoi de moins fade & de plus passionné.
+TENEDIUS. Sorte de Nome pour les Flûtes dans lʼancienne Musique des Grecs.
+TENEUR, s. f. Terme de Plain-Chant qui marque dans la Psalmodie la partie qui regne
+depuis la fin de lʼIntonation jusquʼà la Médiation, & depuis la Médiation jusquʼà la
+Terminaison. Cette Teneur, quʼon peut appeller la Dominante de la Psalmodie, est presque
+toujours sur le même Ton.
+TENOR. (Voyez TAILLE.) Dans les commencemens [718] du Contré-point, on donnoit le
+nom de Tenor à la Partie la plus basse.
+TENUE, s. f. Son soutenu par une Partie durant deux ou plusieurs Mesures, tandis que
+dʼautres Parties travaillent. (Voyez MESURE, TRAVAILLER.) Il arrive quelquefois, mais
+rarement, que toutes les Parties sont des Tenues à la fois; & alors il ne faut pas que la Tenue soit si
+longue que le sentiment de la Mesure sʼy laissé oublier.
+TÊTE. La Tête ou le corps dʼune Note est cette partie qui en détermine la position, & à
+laquelle tient la Queue quand elle en a une. (Voyez QUEUE.)
+Avant lʼinvention de lʼimprimerie les Notes nʼavoient que des Têtes noires: car la plupart
+des Notes étant quarrées, il eût été trop long de les faire blanches en écrivant. Dans
+lʼimpression lʼon forma des Têtes de Notes blanches, cʼest-à-dire, vides dans le milieu.
+Aujourdʼhui les unes & les autres sont en usage, &, tout le reste égal, une Tête blanche marque
+toujours une valeur double de celle dʼune Tête noire. (Voyez NOTES, VALEUR DES NOTES.)
+TÉTRACORDE, s. m. Cʼétoit, dans la Musique ancienne, un ordre ou Systême particulier de
+Sons dont les Cordes extrêmes sonnoient la Quarte. Ce systême sʼappelloit Tétracorde, parce que
+les Sons qui le composoient, étoient ordinairement au nombre de quatre; ce qui pourtant
+nʼétoit pas toujours vrai.
+Nicomaque, au rapport de Boece, dit que la Musique dans sa premiere simplicité nʼavoit
+que quarte Sons ou Cordes dont les deux extrêmes sonnoient le Diapason entrʼelles, [719] tandis
+
+Jean-Jacques Rousseau, VOLUME 9. Dictionnaire de musique, in Collection complète des oeuvres, Genève, 1780-1789, vol. 9, in-4°,
+édition en ligne www.rousseauonline.ch, version du 7 octobre 2012.
+
+que les deux moyennes distantes dʼun Ton lʼune de lʼautre, sonnoient chacune la Quarte avec
+lʼextrême dont elle étoit la plus proche, & la Quinte avec celle dont celle étoit la plus éloignée. Il
+appelle cela le Tétracorde de Mercure, du nom de celui quʼon en disoit lʼinventeur.
+Boece dit encore quʼaprès lʼaddition de trois Cordes faites par différens Auteurs, Lychaon
+Samien en ajouta une huitieme quʼil plaça entre la Trite & la Paramèse, qui étoient auparavant
+la même Corde; ce qui rendit lʼOctacorde complet & composé de deux Tétracordes disjoints, de
+conjoints quʼils étoient auparavant dans lʼEptacorde.
+Jʼai consulté lʼouvrage de Nicomaque, & il me semble quʼil dit ne dit point cela. Il dit au
+contraire que Pythagore ayant remarqué que bien que le Son moyen des deux Tétracordes
+conjoints sonnât la Consonnance de la Quarte avec chacun des extrêmes, ces extrêmes
+comparés entrʼeux étoient toutefois dissonans: il inséra entre les deux Tétracordes une huitieme
+Corde, qui, les divisant par un Ton dʼIntervalle, substitua le Diapason ou lʼOctave à la Septieme
+entre leurs extrêmes, & produisit encore une nouvelle Consonnance entre chacune deux
+Cordes moyennes & lʼextrême qui lui étoit opposée.
+Sur la maniere dont se fit cette addition, Nicomaque & Boece sont tous deux également
+embrouillés, & non contens de se contredire entrʼeux, chacun dʼeux se contredit encore luimême. (Voyez SYSTEME, TRITE, PARAMESE.)
+Si lʼon avoit égard à ce que disent Boece & dʼautres plus anciens écrivains, on ne pourroit
+donner de bornes fixes à [720] lʼétendue du Tétracorde: mais soit que lʼon compte ou que lʼon pese
+les voix, on trouvera que la définition la plus exacte est celle du vieux Bacchius, & cʼest aussi
+celle que jʼai préférée.
+En effet, cet Intervalle de Quarte est essentiel au Tétracorde; cʼest pourquoi les Sons
+extrêmes qui forment cet Intervalle sont appellés immuables ou fixes par les Anciens, au lieu
+quʼils appelles mobiles ou changeans les Sons moyens, parce quʼils peuvent sʼaccorder de
+plusieurs manieres.
+Au contraire le nombre de quatre Cordes dʼoù le Tétracorde a pris son nom, lui est si peu
+essentiel, quʼon voit, dans lʼancienne Musique, des Tétracordes qui nʼen avoient que trois. Tels
+furent, durant un tems, les Tétracordes enharmoniques. Tel étoit, selon Meibomius, le second
+Tétracorde du Systême ancien, avant quʼon y eût inséré une nouvelle Corde.
+Quant au premier Tétracorde, il étoit certainement complet avant Pythagore, ainsi quʼon le
+voit dans le Pythagoricien Nicomaque; ce qui nʼempêche pas M. Rameau dʼaffirmer que, selon
+le rapport unanime, Pythagore trouva le Ton, le Diton, le semi-Ton, & que du tout il forma le
+Tétracorde diatonique; (notez que cela seroit un Pentacorde: ) au lieu de dire que Pythagore
+trouva seulement les raisons de ces Intervalles, lesquels, selon un rapport plus unanime,
+étoient connus long-tems avant lui.
+Les Tétracordes ne resterent pas long-tems bornés au nombre de deux; il sʼen forma bientôt
+un troisieme, puis un quatrieme; nombre auquel le Systême des Grecs demeura fixé.
+[721] Tous ces Tétracordes étoient conjoints; cʼest-à-dire, que la derniere Corde du premier
+servoit toujours de premiere Corde au second, & ainsi de suite, excepté seul lieu à lʼaigu ou au
+grave du troisieme Tétracorde, où il y avoit Disjonction, laquelle(voyez ce mot) mettoit un Ton
+dʼIntervalle entre la plus haute Corde du Tétracorde inférieur & la plus basse du Tétracorde
+supérieur. (Voyez SYNAPHE, DIALEUXIS.) Or, comme cette Disjonction du troisieme Tétracorde
+se faisoit tantôt avec le second, tantôt avec le quatrieme, cela fit approprier à ce troisieme
+Tétracorde
+
+Jean-Jacques Rousseau, VOLUME 9. Dictionnaire de musique, in Collection complète des oeuvres, Genève, 1780-1789, vol. 9, in-4°,
+édition en ligne www.rousseauonline.ch, version du 7 octobre 2012.
+
+un nom particulier pour chacun de ces deux cas. De sorte que, quoiquʼil nʼy eût proprement que
+quatre Tétracordes, il y avoit pourtant cinq dénominations. (Voyez Pl. H. Fig. 2)
+Voici les noms de ces Tétracordes. Le plus grave des quatre, &qui se trouvoit placé un Ton audessus de la Corde Proslambanomene, sʼappelloit le Tétracorde-Hypaton, ou des principales; le
+second en montant, lequel étoit toujours conjoint au premier, sʼappelloit le Tétracorde-Méson, ou
+des moyennes; le troisieme, quand il étoit conjoint au second & séparé du quatrieme,
+sʼappelloit le Tétracorde Synnéménon, ou des Conjointes; mais quand il étoit séparé du second &
+conjoint au quatrieme, alors ce troisieme Tétracorde prenoit le nom de Diézeugménon, ou des
+Divisées. Enfin, le quatrieme sʼappelloit le Tétracorde-Hyperboléon, ou des excellentes. LʼArétin
+ajouta à ce Systême un cinquieme Tétracorde que Meibomius prétend quʼil ne fit que rétablir. Quoi
+quʼil en soit, les Systêmes particuliers des Tétracordes firent enfin place à celui de lʼOctave qui les
+fournit tous.
+[722] Les deux Cordes extrêmes de chacun de ces Tétracordes étoient appellées immuables,
+parce que leur Accord ne changeoit jamais; mais ils contenoient aussi chacun deux Cordes
+moyennes, qui, bien quʼaccordées semblablement dans tous les Tétracordes, étoient pourtant
+sujettes, comme je lʼai dit, à être haussées ou baissées selon le Genre & même selon lʼespece du
+Genre; ce qui se faisoit dans tous les Tétracordes également: cʼest pour cela que ces Cordes
+étoient appellées mobiles.
+Il y avoit six especes principales dʼAccord, selon les Aristoxéniens; savoir, deux pour le
+Genre Diatonique, trois pour, le Chromatique, & une seulement pour lʼEnharmonique. (Voy.
+ces mots.) Ptolomée réduit ces six especes à cinq. (Voyez Pl. M. Fig. 5.)
+Ces diverses especes, ramenées à la pratique la plus commune, nʼen formoient que trois,
+une par Genre.
+I. LʼAccord diatonique ordinaire du Tétracorde formoit trois Intervalles, dont le premier
+étoit toujours dʼun semi-Ton, & les deux autres dʼun Ton chacun, de cette maniere: mi, fa, sol, la.
+Pour le Genre Chromatique, il faloit baisser dʼun semi-Ton la troisieme Corde, & lʼon avoit
+deux semi-Tons consécutifs, puis une Tierce mineure: mi, fa, fa Dièse, la.
+Enfin pour le Genre Enharmonique, il faloit baisser les deux Cordes du milieu jusquʼà ce
+quʼon eût deux quarts-de-Ton consécutifs, puis une Tierce majeure: mi, mi demi-Dièse, fa, la; ce
+qui donnoit entre le mi Dièse & le fa un véritable Intervalle enharmonique.
+[723] Les Cordes semblables, quoiquʼelles se solfiassent par les mêmes syllabes, ne
+portoient pas les mêmes noms dans tous les Tétracordes, mais elles avoient dans les Tétracordes
+graves des dénominations différentes de celles quʼelles avoient dans les Tétracordes aigus. On
+trouvera toutes ces différentes des nominations dans la Fig. 2 de la Pl. H.
+Les Cordes homologues, considérées comme telles, portoient des noms génériques qui
+exprimoient le rapport de leur position dans leurs Tétracordes respectifs: ainsi lʼon donnoit le
+nom de Barypycni aux premiers Sons de lʼIntervalle serré, cʼest-à-dire, au Son le plus grave de
+chaque Tétracorde; de Mésopycni aux seconds ou moyens, dʼOxypycni aux troisiemes ou aigus; & dʼ
+Apycni à ceux qui ne touchoient dʼaucun côté aux Intervalles serrés. (Voyez Systême.)
+Cette division du Systême des Grecs par Tétracordes semblables, comme nous divisons le
+nôtre par Octaves semblablement divisées, prouve, ce me semble, que ce Systême nʼavoit été
+produit par aucun sentiment dʼHarmonie, mais quʼils avoient tâché dʼy rendre par des
+Intervalles plus serrés les inflexions de voix que leur langue sonore & harmonieuse donnoit à
+
+Jean-Jacques Rousseau, VOLUME 9. Dictionnaire de musique, in Collection complète des oeuvres, Genève, 1780-1789, vol. 9, in-4°,
+édition en ligne www.rousseauonline.ch, version du 7 octobre 2012.
+
+leur récitation soutenue, & sur-tout à celle de leur Poésie, qui dʼabord fut un véritable Chant; de
+sorte que la Musique nʼétoit alors que lʼAccent de la parole & ne devint un Art séparé quʼaprès
+un long trait de tems. Quoi quʼil en soit, il est certain quʼils bornoient leurs divisions primitives
+à quatre Cordes, dont toutes les autres nʼétoient que les Répliques, & quʼils ne regardoient tous
+les autres Tétracordes que comme autant de répétitions du premier.
+[724] Dʼoù je conclus quʼil nʼy a pas plus dʼanalogie entre leur Systême & le nôtre quʼentre un
+Tétracorde & une Octave, & que la marche fondamentale à notre mode, que nous donnons pour
+base à leur Systême, ne sʼy rapporte en aucune façon.
+1. Parce quʼun Tétracorde formoit pour eux un tout aussi complet que le forme pour nous
+une Octave.
+2. Parce quʼils nʼavoient que quatre syllabes pour solfier, au lieu que nous en avons sept.
+3. Parce que leurs Tétracordes étoient conjoints ou disjoints à volonté; ce qui marquoit leur
+entiere indépendance respective.
+4. Enfin, parce que les divisions y étoient exactement semblables dans chaque Genre, & se
+pratiquoient dans le même Mode; ce qui ne pouvoit se faire dans nos idées par aucune
+Modulation véritablement harmonique.
+TETRADIAPASON. Cʼest le nom Grec de la quadruple Octave, quʼon appelle aussi Vingtneuvieme. Les Grecs ne connoissoient que le nom de cet Intervalle; car leur Systême de Musique
+nʼy arrivoit pas. (Voyez SYSTEME.)
+TETRATONON. Cʼest le nom Grec dʼun Intervalle de quatre Tons, quʼon appelle
+aujourdʼhui Quinte-superflue. (Voyez QUINTE.)
+TEXTE. Cʼest le Poeme, ou ce sont les paroles quʼon met en Musique. Mais ce mot est vieilli
+dans ce sens, & lʼon ne dit plus le Texte chez les Musiciens; on paroles. (Voyez PAROLES.)
+THE. Lʼune des quatre syllabes dont les Grecs se servoient pour solfier. (Voyez SOLFIER.)
+[725] THESIS, s. f. Abaissement ou position. Cʼest ainsi quʼon appelloit autrefois le Tems
+fort ou le frappé de la Mesure.
+THO. Lʼune des quatre syllabes dont les Grecs se servoient pour solfier. (Voyez SOLFIER.)
+TIERCE. La derniere des Consonnances simples & directes dans lʼordre de leur génération,
+& la premiere des deux Consonnances imparfaites.
+(Voyez CONSONNANCE.) Comme les Grecs ne lʼadmettoient pas pour Consonnante, elle
+nʼavoir point, parmi eux, de nom générique; mais elle prenoit seulement le nom de lʼIntervalle
+plus ou moins grand, dont elle étoit formée. Nous lʼappellons Tierce parce que son Intervalle
+est toujours composé de deux Degrés ou de trois Sons diatoniques. A ne considérer les Tierces
+que dans ce dernier sens, cʼest-à-dire, par leurs Degrés, on en trouvé de quatre sortes; deux
+Consonnantes & deux Dissonantes.
+Les Consonnantes sont: 1º. La Tierce majeure que les Grecs appelloient Diton, composée de
+deux Tons, comme dʼut à mi. Son rapport est de 4 à 5. 2º. La Tierce mineure appellée par les Grecs
+Hémiditon, & composée dʼun Ton & demi, comme mi sol. Son rapport est de 5 à 6.
+Les Tierces dissonantes sont: 1º. La Tierce diminuée, composée de deux semi-Tons majeurs,
+comme si re Bémol, dont le rapport est de 125 à 144. 2.º. La Tierce superflue, composée de deux
+Tons & demi, comme fa la Dièse son rapport est 96 à 125.
+Ce dernier Intervalle ne pouvant avoir lieu dans un même Mode ne sʼemploie jamais, ni
+dans lʼHarmonie, ni dans [726] la Mélodie. Les Italiens pratiquent quelquefois, dans le Chant, la
+Tierce
+
+Jean-Jacques Rousseau, VOLUME 9. Dictionnaire de musique, in Collection complète des oeuvres, Genève, 1780-1789, vol. 9, in-4°,
+édition en ligne www.rousseauonline.ch, version du 7 octobre 2012.
+
+diminuée, mais elle nʼa lieu dans aucune Harmonie, & voilà pourquoi lʼAccord de Sixte
+superflue ne se renverse pas.
+Les Tierces consonnantes sont Partie de lʼHarmonie, surtout la Tierce majeure, qui est sonore
+& brillante: la Tierce mineure est plus tendre & plus trille; elle a beaucoup de douceur quand
+lʼIntervalle en est redoublé; cʼest-à-dire, quʼelle fait la Dixieme. En général les Tierces veulent
+être portées dans le haut; dans le bas elles sont sourdes & peu harmonieuses: cʼest pourquoi
+jamais Duo de Basses nʼa fait un bon effet.
+Nos anciens Musiciens avoient, sur les Tierces, des loix presquʼaussi séveres que sur les
+Quintes. Il étoit défendu dʼen faire deux de suite, même dʼespeces différentes, sur-tout par
+mouvemens semblables. Aujourdʼhui quʼon a généralisé par les bonnes Loix du Mode les regles
+particulieres des Accords, on sait sans faute, par mouvemens semblables ou contraires, par
+Degrés conjoints ou disjoints, autant de Tierces majeures ou mineures consécutives que la
+Modulation en peut comporter, & lʼon a des Duo fort agréables qui, du commencement à la fin,
+ne procedent que par Tierces.
+Quoique la Tierce entre dans la plupart des Accords, elle ne donne son nom à aucun, si ce
+nʼest à celui que quelques-uns appellent Accord de Tierce-Quarte, & que nous connoissons plus
+communément sous le nom de Petite-Sixte. (Voyez ACCORD, SIXTE.)
+[727] TIERCE de Picardie. Les Musiciens appellent ainsi, par plaisanterie la Tierce majeure
+donnée, au lieu de la mineure, à la finale dʼun morceau composé en Mode mineur. Comme
+lʼAccord parfait majeur est plus harmonieux que le mineur, on se faisoit autrefois une loi de
+toujours sur ce premier; mais cette finale, bien quʼharmonieuse avoit quelque chose de mais &
+de mal-chantant qui lʼa fait abandonner. On finit toujours aujourdʼhui par lʼAccord qui
+convient au Mode de la Piece, si ce nʼest lorsquʼon veut passer du mineur au majeur: car alors la
+finale du premier Mode porte élégamment la Tierce majeure pour annoncer le second.
+Tierce de Picardie; parce due lʼusage de cette finale est reste plus long-tems dans la Musique
+dʼEglise, &, par conséquent en Picardie, où il y a Musique dans un grand nombre de
+Cathédrales, & dʼautres Eglises.
+TIRADE, s. f. Lorsque deux Notes sont séparées par un Intervalle disjoint, & quʼon remplit
+cet Intervalle de toutes ses Notes diatoniques, cela sʼappelle une Tirade. La Tirade différé de la
+Fusée, en ce que les Sons intermédiaires qui lient les deux extrémités de la Fusée sont trèsrapides, & ne sont pas sensibles dans la Mesure, au lieu que ceux de la Tirade, ayant une valeur
+sensible, peuvent être lents & même inégaux.
+Les anciens nommoient en Grec αγωγις, & en latin ductus, ce que nous appellons aujourdʼhui
+Tirade; & ils en distinguoient de trois sortes. 1º. Si les Sons se suivoient en montant, ils
+appelloient cela ευθεια, ductus rectus. 2º. Sʼils
+[728]sesuivoient en descendant, cʼétoit αναχαμπτσδα, ductu
+revertens. 3º. Que si après avoir monté par Bémol, ils redescendoient par Béquarre, ou
+réciproquement, cela sʼappelloit περιφερης, ductus circumcurrens. (Voyez EUTHIA, ANACAMPTOS,
+PERIPHERES.)
+On auroit beaucoup à faire aujourdʼhui que la Musique est si travaillée, si lʼon vouloit
+donner des noms à tous tes différens passages.
+TON. Ce mot a plusieurs sens en Musique.
+1º. Il se prend dʼabord pour un Intervalle qui caractérise le Systême & le Genre Diatonique.
+Dans cette acception il y a deux sortes de Tons; savoir, le Ton majeur, dont le rapport est de 8 à 9,
+
+Jean-Jacques Rousseau, VOLUME 9. Dictionnaire de musique, in Collection complète des oeuvres, Genève, 1780-1789, vol. 9, in-4°,
+édition en ligne www.rousseauonline.ch, version du 7 octobre 2012.
+
+& qui résulte de la différence de la Quarte à la Quinte; & le Ton mineur, dont le rapport est de 9 à
+10, & qui résulte de la différence de la Tierce mineure à la Quarte.
+La génération du Ton majeur & celle du Ton mineur se trouvent également à la deuxieme
+Quinte re commençant par ut: car la quantité dont ce re surpasse lʼOctave du premier ut est
+justement dans le rapport de 8 à 9, & celle dont ce même re est surpassé par mi, Tierce majeure
+de cette Octave, est dans le rapport de 9 à 10.
+2º. On appelle Ton le degré dʼélévation que prennent les Voix ou sur lequel sont montés les
+Instrumens, pour exécuter la Musique. Cʼest en ce sens quʼon dit, dans un Concert, que le Ton
+est trop haut ou trop bas. Dans les Eglises il y a le Ton du Choeur pour le Plain-Chant. Il y a pour
+la Musique, Ton de Chapelle & Ton dʼOpéra. Ce dernier [729] nʼa rien de fixe; mais en France il
+est ordinairement plus bas que lʼautre.
+3º. On donne encore le même nom à un Instrument qui sert à donner le Ton de lʼAccord à
+tout un Orchestre. Cet Instrument, que quelques-uns appellent aussi Choriste, est un sifflet,
+qui, au moyen dʼune espece de piston gradué, par lequel on alonge ou raccourcit le tuyau à
+volonté, donne toujours à-peu-près le même Son sous la même division. Mais cet à-peu-près,
+qui dépend sous variations de lʼair, empêche quʼon ne puisse sʼassurer dʼun Son fixe qui soit
+toujours exactement le même. Peut-être, depuis quʼil existe de la Musique, nʼa-t-on jamais
+concerté deux fois sur le même Ton. M. Diderot a donne, dans sus principes dʼAcoustique, les
+moyens de fixer le Ton avec beaucoup plus de précision, en remédiant aux effets des variations
+de lʼair.
+4º. Enfin, Ton se prend pour une regle de Modulation relative à une Note ou Corde
+principale quʼon appelle Tonique. (Voyez TONIQUE.)
+Sur les Tons des anciens, voyez MODE.
+Comme notre Systême moderne est composé de douze Cordes ou Son différens, chacun de
+ces Sons peut servir de fondement à un Ton, cʼest-à-dire, en être la Tonique. Ce sont déjà douze
+Tons; & comme le Mode majeur & le Mode mineur sont applicables à chaque Ton, ce sont vingtquatre Modulations dont notre Musique est susceptible sur ces douze Tons. (VOYEZ
+MODULATION.)
+Ces Tons différent entrʼeux par les divers degrés dʼélévation [730] entre le grave & lʼaigu
+quʼoccupent les Toniques. Ils différent encore par les diverses altérations des Sons & des
+Intervalles, produites en chaque Ton par le Tempérament; de sorte que, sur un Clavecin bien
+dʼaccord, une oreille exercée reconnoît sans peine un Ton quelconque dont on lui fait entendre
+la Modulation; & ces Tons se reconnoissent également sur des Clavecins accordés plus haut ou
+plus bas les uns que les autres: ce qui montre que, cette connoissance vient du moins autant des
+diverses modifications que chaque Ton reçoit de lʼAccord total, que du degré dʼélévation que la
+Tonique occupe dans le Clavier.
+De-là naît une source de variétés & de beautés dans la Modulation. De-là naît une diversité
+& une énergie admirable dans lʼexpression. De-là naît enfin la faculté dʼexciter des sentimens
+différens avec des Accords semblables frappés, en différens Tons. Faut-il du majestueux, du
+grave? LʼF ut sa, & les Tons majeurs par Bémol lʼexprimeront noblement.. Faut-il du gai, du
+brillant? Prenez A mi la, D la re, les Tons majeurs par Dièse. Faut-il du touchant, du rendre?
+Prenez les Tons mineurs par Bémol. C sol ut mineur porte la tendresse dans lʼame; F ut fa mineur
+va jusquʼau lugubre & à la douleur. En un mot, chaque Ton, chaque Mode, a son expression
+
+Jean-Jacques Rousseau, VOLUME 9. Dictionnaire de musique, in Collection complète des oeuvres, Genève, 1780-1789, vol. 9, in-4°,
+édition en ligne www.rousseauonline.ch, version du 7 octobre 2012.
+
+propre quʼil faut savoir connoître, & cʼest là un des moyens qui rendent un habile Compositeur
+maître, en quelque maniere, des affections de ceux qui lʼécoutent: . cʼest une espece
+dʼéquivalent aux Modes anciens, quoique, fort éloigné de leur variété & de leur énergie.
+Cʼest pourtant de cette agréable & riche diversité que M. [731] Rameau voudroit priver la
+Musique, en ramenant une égalité & une monotonie entiere dans lʼHarmonie de chaque Mode,
+par sa regle du Tempérament; regle déjà si souvent proposée & abandonnée avant lui. Selon cet
+Auteur, toute lʼHarmonie en seroit plus parfaite. Il est certain, cependant, quʼon ne peut rien
+gagner en ceci dʼun côté, quʼon ne perde autant de lʼautre; & quand on supposeroit (ce qui nʼest
+pas) que lʼHarmonie en général en seroit plus pure; cela dédommageroit-il de ce quʼon y
+perdroit du côté de lʼexpression? (Voyez TEMPERAMENT.)
+TON DU QUART. Cʼest ainsi que les Organistes & Musiciens dʼEglise ont appellé le Plagal
+du Mode mineur qui sʼarrête & finit sur la Dominante au lieu de tomber sur la Tonique. Ce nom
+de Ton du Quart lui vient de ce que telle est spécialement la Modulation du quatrieme Ton dans
+le Plain-Chant.
+TONS DE LʼEGLISE. Ce sont des manieres de Moduler le Plain-Chant sur telle ou telle
+finale prise dans le nombre prescrit, en suivant certaines regles admises dans toutes les Eglises
+où lʼon pratique le Chant Grégorien.
+On compte huit Tons réguliers, dont quatre authentiques ou principaux, & quatre Plagaux
+ou Collatéraux. On appelle Tons authentiques ceux où la Tonique occupe à-peu près le plus bas
+Degré du Chant; mais si le Chant descend jusquʼà trois Degrés plus bas que la Tonique, alors le
+Ton est Plagal.
+Les quatre Tons authentiques ont leurs finales à un Degré lʼune de lʼautre selon lʼordre de
+ces quatre Notes, re mi sa [732] sol. Ainsi le premier de ces Tons répondant au Mode Dorien des
+Grecs, le second répond au Phrygien, le troisieme à lʼéolien (& non pas au Lydien, comme
+disent les Symphoniastes), & le dernier au Mixo-Lydien. Cʼest Saint Miroclet Evêque de Milan,
+ou, selon dʼautres, Saint Ambroise, qui vers lʼan 370, choisit ces quatre Tons pour en composer
+le Chant de lʼEglise de Milan; & cʼest, à ce quʼon dit, le choix & lʼapprobation de ces deux
+Evêques, qui ont fait donner à ces quatre Tons le nom dʼAuthentiques.
+Comme les Sons, employés dans ces quatre Tons, nʼoccupoient pas tout le Disdiapason ou
+les quinze Cordes de lʼancien Systême, Saint Grégoire forma le projet de les employer tous par
+lʼaddition de quatre nouveaux Tons quʼon appelle Plagaux, lesquels ayant les mêmes Diapasons
+que les précédens, mais leur finale plus élevée dʼune Quarte, reviennent proprement, à lʼHyperDorien, à lʼHyper-Phrygien, à lʼHyper-éolien, & à lʼHyper-Mixo-Lydien. Dʼautres attribuent à
+Guy dʼArezzo lʼinvention de ce dernier.
+Cʼest de-là que les quatre Tons Authentiques ont chacun un Plagal pour collatéral ou
+supplément; de sorte quʼaprès le premier Ton, qui est authentique, vient le second Ton, qui est
+son Plagal; le troisieme Authentique, le quatrieme Plagal, & ainsi de suite. Ce qui fait que les
+Modes ou Tons Authentiques sʼappellent aussi impairs, & les Plagaux pairs, eu égard à leur
+place dans lʼordre des Tons.
+Le discernement des Tons Authentiques ou Plagaux est indispensable à celui qui donne le
+Ton du Choeur; car si le Chant est dans un Ton Plagal, il doit prendre la finale à-peu-prés [733]
+dans le Medium de la Voix; & si le Ton est Authentique, il doit la prendre dans le bas. Faute de
+
+Jean-Jacques Rousseau, VOLUME 9. Dictionnaire de musique, in Collection complète des oeuvres, Genève, 1780-1789, vol. 9, in-4°,
+édition en ligne www.rousseauonline.ch, version du 7 octobre 2012.
+
+cette observation, on exposé les voix se forcer ou à nʼêtre pas entendues.
+Il y a encore des Tons quʼon appelle Mixtes; cʼest-a-dire, mêlés de lʼAuthente & du Plagal, ou
+qui sont en partie principaux & en partie collatéraux; on les appelle aussi Tons ou Modes
+communs. En ces cas, le nom numéral ou la dénomination du Ton se prend de celui des deux qui
+domine, ou qui se fait sentir le plus, sur-tout à la fin de la Piece.
+Quelquefois on fait dans un Ton des transpositions à la Quinte: ainsi au lieu de re dans le
+premier Ton, lʼon aura la pour finale, si pour mi, ut pour fa; & ainsi de suite. Mais si lʼordre & la
+Modulation ne changent pas, le Ton ne change pas non plus, quoique pour la commodité des
+Voix la finale soit transposée. Ce sont des observations à faire pour le Chantre ou lʼOrganiste
+qui donne lʼIntonation.
+Pour approprier, autant quʼil est possible, lʼétendue de tous ces Tons à celle dʼune seule
+Voix, les Organistes ont cherché les Tons de la Musique les plus correspondans à ceux-là. Voici
+ceux quʼils ont établis.
+Premier Ton..... Re mineur.
+Second Ton..... Sol mineur.
+Troisieme Ton.... La mineur ou Sol.
+Quatrieme Ton.... La mineurm finissant sur la Dominante.
+Cinquieme Ton.... Ut majeur ou Re.
+[734] Sixieme Ton..... Fa majeur.
+Septieme Ton..... Re majeur.
+Huitieme Ton..... Sol majeur, en faisant sentir le Ton dʼUt.
+On auroit pu réduire ces huit Tons encore à une moindre étendue en mettant à lʼUnisson la
+plus haute Note de chaque Ton, ou, si lʼon veut, celle quʼon rebat le plus, & qui sʼappelle, en
+terme de Plain-Chant, Dominante: mais comme on nʼa pas trouvé que lʼétendue de tous ces Tons
+ainsi réglés excédât celle de la voix humaine, on nʼa pas jugé à propos de diminuer encore cette
+étendue par des Transpositions plus difficiles & moins harmonieuses que celles qui sont en
+usage.
+Au reste, les Tons de lʼEglise ne sont point asservis aux loix des Tons de la Musique; il nʼy est
+point question de Médiante ni de Note sensible, le Mode y est peu déterminé, & on y laissé les
+semi-Tons où ils sé trouvent dans lʼordre naturel de lʼEchelle; pourvu seulement quʼils ne
+produisent ni Triton ni Fausse-Quinte sur la Tonique.
+TONIQUE, s. f. Nom de la Corde principale sur laquelle le Ton est établi. Tous les Airs
+finissent communément par cette Note, sur-tout à la Basse. Cʼest lʼespece de Tierce que porte la
+Tonique, qui détermine le Mode. Ainsi lʼon peut composer dans les deux Modes sur la même
+Tonique. Enfin, les Musiciens reconnoissent cette propriété dans la Tonique, que lʼAccord parfait
+nʼappartient rigoureusement quʼà elle seule. Lorsquʼon frappe cet Accord sur une autre Note,
+ou [735] quelque Dissonance est sous-entendue, ou cette Note devient Tonique pour le moment.
+Par la méthode des Transpositions, la Tonique porte le nom dʼut en Mode majeur, & de la en
+Mode mineur. (V. TON, MODE,GAMME, SOLFIER, TRANSPOSITION, CLEFS, TRANSPOSÉES.)
+
+Jean-Jacques Rousseau, VOLUME 9. Dictionnaire de musique, in Collection complète des oeuvres, Genève, 1780-1789, vol. 9, in-4°,
+édition en ligne www.rousseauonline.ch, version du 7 octobre 2012.
+
+Tonique est aussi le nom donne par Aristoxène à lʼune des trois especes de Genre
+Chromatique dont il explique les divisions, & qui est le Chromatique ordinaire des Grecs,
+procédant par deux semi-Tons consécutifs, puis une Tierce mineure. (Voyez GENRES.)
+Tonique est quelquefois adjectif. On dit Corde tonique, Note tonique, Accord tonique, Echo
+tonique, &c.
+TOUS & en Italien TUTTI. Ce mot sʼécrit souvent dans les parties de Symphonie dʼun
+Concerto, après cet autre mot Seul ou Solo, qui marque un Récit. Le mot Tous indique le lieu où
+finit ce Récit, & où reprend tout lʼOrchestre.
+TRAIT. Terme de Plain-Chant, marquant la Psalmodie dʼun Pseaume ou de quelques
+versets de Pseaume, traînée ou alongée sur un Air lugubre quʼon substitue en quelques
+occasions aux Chants joyeux de lʼAlleluya & des Proses. Le Chant des Traits doit être composé
+dans le second ou dans le huitieme Ton; les autres nʼy sont pas propres.
+TRAIT, tractus, est aussi le nom dʼune ancienne figure de Note appellée autrement Plique.
+(Voyez PLIQUE.)
+RANSITION, s. f. Cʼest, dans le Chant, une maniere dʼadoucir le saut dʼun Intervalle
+disjoint en inférant des Sons diatoniques entre ceux qui forment cet Intervalle.
+[736] La Transition est proprement une Tirade non notée; quelquefois aussi elle nʼest quʼun
+Port-de-Voix, quand il sʼagit seulement de rendre plus doux le passage dʼun Degré diatonique.
+Ainsi, pour passer de lʼut au re avec plus de douceur, la Transition se prend sur lʼut.
+Transition, dans lʼHarmonie, est une marche fondamentale propre à changer de Genre ou
+de Ton dʼune maniere sensible, réguliere, & quelquefois par des intermédiaires. Ainsi, dans le
+Genre Diatonique, quand la Basse marche de maniere à exiger, dans les Parties, le passage dʼun
+semi-Ton mineur, cʼest une Transition chromatique. (Voyez CHROMATIQUE.) Que si lʼon passe
+dʼun Ton dans un autre la faveur dʼun Accord de Septieme diminuée, cʼest une Transition
+enharmonique. (Voyez ENHARMONIQUE.)
+TRANSLATION. Cʼest, dans nos vieilles Musiques, le transport de la signification dʼun
+Point à une Note séparée par dʼautres Notes de ce même Point. (Voyez POINT.)
+TRANSPOSER, v. a. & n. Ce mot a plusieurs sens en Musique.
+On Transpose en exécutant, lorsquʼon transpose une Piece de Musique dans un autre Ton
+que celui où elle est écrite. (Voyez TRANSPOSITION.)
+On Transpose en écrivant, lorsquʼon Note une Piece de Musique dans un autre Ton que
+celui. où elle a été composée. Ce qui oblige non-seulement à changer la position de toutes les
+Notes dans le même rapport, mais encore à armer la Clef différemment selon les regles
+prescrites à lʼarticle Clef transposée.
+[737] Enfin lʼon Transpose en solfiant lorsque, sans avoir égard au nom naturel des Notes, on
+leur en donne de relatifs au Ton, au Mode dans lequel on chante. (Voyez SOLFIER.)
+TRANSPOSITION. Changement par lequel on transporte un Air ou une Piece de Musique
+dʼun Ton à un autre.
+Comme il nʼy a que deux Modes dans notre Musique, Composer en tel ou tel Ton, nʼest
+autre chose que fixer sur telle ou telle Tonique, celui de ces deux Modes quʼon a choisi. Mais
+comme lʼordre des Sons ne se trouvé pas naturellement disposé sur toutes les Toniques, comme
+il devroit lʼêtre pour y pouvoir établir un même Mode, on corrige ces différences par le moyen
+des Dièses ou des Bémols dont on arme la Clef, & qui transporte les deux semi-Tons de la place
+
+Jean-Jacques Rousseau, VOLUME 9. Dictionnaire de musique, in Collection complète des oeuvres, Genève, 1780-1789, vol. 9, in-4°,
+édition en ligne www.rousseauonline.ch, version du 7 octobre 2012.
+
+où ils étoient, à celle où ils doivent être pour le Mode & le Ton dont il sʼagit. (Voyez CLEF
+TRANSPOSÉE.)
+Quand on veut donc transposer dans un Ton un Air composé dans un autre, il sʼagit
+premiérement dʼen élever ou abaisser la Tonique & toutes les Notes dʼun ou de plusieurs
+Degrés, selon le Ton que lʼon a choisi, puis dʼarmer la Clef comme lʼexige lʼanalogie de ce
+nouveau Ton. Tout cela est égal pour les Voix: car en appellant toujours ut la Tonique du Mode
+majeur & la celle du Mode mineur, elles suivent toutes les affections du Mode, sans même y
+songer. (Voyez SOLFIER.) Mais ce nʼest pas pour un Symphoniste une attention légere de jouer
+dans un Ton ce qui est noté dans un autre; car, quoiquʼil se guide par les Notes quʼil a sous les
+yeux, il faut que ses doigts en sonnent [738] de toutes différentes, & quʼil les altere tout
+différemment selon la différente maniere dont la Clef doit être armée pour le Ton noté, & pour
+le Ton transposé; de sorte que souvent il doit faire des Dièses où il voit des Bémols, & vice versâ,
+&c.
+Cʼest, ce me semble, un grand avantage du Systême de lʼAuteur de ce Dictionnaire de rendre
+la Musique notée également propre à tous les Tons en changeant une seule lettre. Cela fait
+quʼen quelque Ton quʼon transpose, les Instrumens qui exécutent, nʼont dʼautre difficulté que
+celle de jouer la Note, sans avoir jamais lʼembarras de la Transposition. (Voyez NOTES.)
+TRAVAILLER, v. n. On dit quʼune Partie travaille quand elle fait beaucoup de Notes & de
+Diminutions, tandis que dʼautres Parties sont des Tenues & marchent plus posément.
+TREIZIEME. Intervalle qui forme lʼOctave de la Sixte ou la Sixte de lʼOctave. Cet Intervalle
+sʼappelle Treizieme, parce quʼil est formé de douze Degrés diatoniques, cʼest-à-dire de treize
+Sons.
+TREMBLEMENT, s. m. Agrément du Chant que les Italiens appellent Trillo, & quʼon
+désigne plus souvent en François par le mot Cadence. (Voyez CADENCE.)
+On employoit aussi jadis le terme de Tremblement, en Italien Tremolo, pour avertir ceux qui
+jouoient des Instrumens à Archet, de battre plusieurs fois la Note du même coup dʼArchet,
+comme pour imiter le Tremblant de lʼOrgue. Le nom ni la chose ne sont plus en usage
+aujourdʼhui.
+[739] TRIADE HARMONIQUE. s. f. Ce terme en Musique a deux sens différens. Dans le
+calcul, cʼest la proportion harmonique; dans la pratique, cʼest lʼAccord parfait majeur qui
+résulte de cette même proportion, & qui est composé dʼun Son fondamental, de sa Tierce
+majeure & de sa Quinte.
+Triade, parce quʼelle est composée de trois termes.
+Harmonique, parce quʼelle est dans la proportion harmonique, & quʼelle est la source de
+toute Harmonie.
+TRIHEMITON. Cʼest le nom que donnoient les Grecs lʼIntervalle que nous appellons Tierce
+mineure; ils lʼappelloient aussi quelquefois Hémiditon. (Voy. HEMI OU SEMI.)
+TRILL ou Tremblement. (Voyez CADENCE.)
+TRIMELES. Sorte de Nome pour les Flûtes dans lʼancienne Musique des Grecs.
+
+Jean-Jacques Rousseau, VOLUME 9. Dictionnaire de musique, in Collection complète des oeuvres, Genève, 1780-1789, vol. 9, in-4°,
+édition en ligne www.rousseauonline.ch, version du 7 octobre 2012.
+
+TRIMERES. Nome qui sʼexécutoit en trois Modes consécutifs; savoir, le Phrygien, le
+Dorien, & le Lydien. Les uns attribuent lʼinvention de ce Nome composé à Sacadas Argien, &
+dʼautres à Clonas Thégéate.
+TRIO. En Italien Terzetto. Musique à trois Parties principales ou récitantes. Cette espece de
+Composition passe pour la plus excellente, & doit être aussi la plus réguliere de toutes. Outre
+les regles générales du Contre-Point, il y en a pour le Trio de plus rigoureuses dont la parfaite
+observation tend à produire la plus agréable de toutes les Harmonies. Ces regles découlent
+toutes de ce principe, que lʼAccord parfait étant composé de trois Sons différens, il faut dans
+chaque Accord, pour remplir lʼHarmonie, distribuer ces trois Sons, autant quʼil se peut, aux
+trois Parties du Trio. [740] A lʼégard des Dissonances, comme on ne les doit jamais doubler, &
+que leur Accord est composé de plus de trois Sons; cʼest encore une plus grande nécessité de les
+diversifier, & de bien choisir, outre la Dissonance, les Sons qui doivent, par préférence,
+lʼaccompagner.
+De-là, ces diverses regles, de ne passer aucun Accord sans y faire entendre la Tierce ou la
+Sixte, par conséquent dʼéviter de frapper à la fois la Quinte & lʼOctave, ou la Quarte & la Quinte;
+de ne pratiquer lʼOctave quʼavec beaucoup de précaution, & de nʼen jamais sonner deux de
+suite, même entre différentes Parties; dʼéviter la Quarte autant quʼil se peut: car toutes les
+Parties dʼun Trio, prises deux à deux, doivent former des Duo parfaits. De-là, en un mot, toutes
+ces petites regles de détail quʼon pratique même sans les avoir apprises, quand on en fait bien le
+Principe.
+Comme toutes ces regles sont incompatibles avec lʼunité de Mélodie, & quʼon nʼentendit
+jamais Trio régulier & harmonieux avoir un Chant déterminé & sensible dans lʼexécution, il
+sʼensuit que le Trio rigoureux est un mauvais genre de Musique. Aussi ces regles si séveres sontelles depuis long tems abolies en Italie, où lʼon ne reconnoit jamais pour bonne une Musique
+qui ne chante point, quelque harmonieuse dʼailleurs quʼelle puisse être, & quelque peine quʼelle
+ait coûtée à composer.
+On doit se rappeller ici ce que jʼai dit au mot Duo. Ces termes Duo & Trio sʼentendent
+seulement des Parties principales & obligées, & lʼon nʼy comprend ni les Accompagnemens [741]
+ni les remplissages. De sorte quʼune Musique à quatre ou cinq Parties, peut nʼêtre pourtant
+quʼun Trio.
+Les François, qui aiment beaucoup la multiplication des Parties, attendu quʼils trouvent
+plus aisément des Accords que des Chants, non contens des difficultés du Trio ordinaire, ont
+encore imaginé ce quʼils appellent Double-Trio, dont les Parties sont doublées & toutes obligées;
+ils ont un Double-Trio du sieur Duché, qui passe pour un Chef-dʼoeuvre dʼHarmonie.
+TRIPLE, adj. Genre de Mesure dans laquelle les Mesures, les Tems, ou les aliquotes des
+Tems se divisent en trois parties égales.
+On peut réduire à deux classes générales ce nombre infini des Mesures Triples dont
+Bononcini, Lorenzo, Penna & Brossard après eux, ont surchargé, lʼun son Musico pratico, lʼautre
+ses Alberi Musicali, & le troisieme son Dictionnaire. Ces deux Classes sont la Mesure ternaire ou
+à trois Tems, & la Mesure binaire dont les Tems sont divisés en raison sous-triple.
+Nos anciens Musiciens regardoient la Mesure à trois Tems comme beaucoup plus
+excellente que la binaire, & lui donnoient, à cause de cela, le nom de Mode parfait. Nous avons
+expliqué aux mots Modes, Tems, Prolation, les différens signes dont ils se servoient pour indiquer
+
+Jean-Jacques Rousseau, VOLUME 9. Dictionnaire de musique, in Collection complète des oeuvres, Genève, 1780-1789, vol. 9, in-4°,
+édition en ligne www.rousseauonline.ch, version du 7 octobre 2012.
+
+ces Mesures, selon les diverses valeurs des Notes qui les remplissoient; mais quelles que
+fuissent ces Notes, dès que Mesure étoit Triple ou parfaite, il y avoir toujours une espece de Note
+qui, même sans Point, remplissoit exactement une Mesure, [742] & se subdivisoit en trois autres
+Notes égales, une pour chaque Tems. Ainsi dans la Triple parfaite, la Breve ou Quarrée valoit, non
+deux, mais trois semi-Breves ou Rondes; & ainsi des autres especes de Mesures Triples. Il y avoit
+pourtant un cas dʼexception; cʼétoit lorsque cette Breve étoit immédiatement précédée ou
+suivie dʼune semi-Breve; car alors les deux ensemble ne faisant quʼune Mesure juste, dont la
+semi-Breve valoit un Tems, cʼétoit une nécessité que la Breve nʼen valût que deux; & ainsi des
+autres Mesures.
+Cʼest ainsi que se formoient les Tems de la Mesure Triple: mais quant aux subdivisions de
+ces mêmes Tems, elles se faisoient toujours selon la raison sous-double, & je ne connois point
+dʼancienne Musique où les Tems soient divisés en raison sous-Triple.
+Les Modernes ont aussi plusieurs Mesures à trois Tems, de différentes valeurs, dont la plus
+simple se marque par un trois, & se remplit dʼune Blanche pointée, faisant une Noire pour
+chaque Tems. Toutes les autres sont des Mesures appellées doubles, à cause que leur signe est
+composé de deux Chiffres. (Voyez MESURE.)
+La seconde espece de Triple est celle qui se rapporte, non au nombre des Tems de la Mesure,
+mais à la division de chaque Tems en raison sous-Triple. Cette Mesure est, comme je viens de le
+dire, de moderne invention & se subdivise en deux especes, Mesure a deux Tems & Mesure à
+trois Tems, dont celles-ci peuvent être considérées comme des Mesures doublement Triples;
+savoir 1̊. par les trois tems de la Mesure, & 2º. par les trois parties égales de chaque Tems. Les
+[743] Triples de cette derniere espece sʼexpriment toutes en Mesures doubles.
+Voici une récapitulation de toutes les Mesures Triples en usage aujourdʼhui. Celles que jʼai
+marquées dʼune étoile ne sont plus gueres usitées.
+I. Triples de la premiere espece; cʼest-à-dire, dont la Mesure est à trois tems, & chaque tems
+divisé en raison sous-double.
+*3 3 3 *3
+*3. 1 2 4 16
+II. Triples de la deuxieme espece; cʼest-à-dire, dont la Mesure est à deux tems, & chaque
+tems divisé en raison sous-Triple.
+*6 6 6 12 *12
+2 4 8 8 16
+Ces deux dernieres mesures se battent à quatre tems.
+II. Triples composé; cʼest-à-dire, dont la Mesure à trois tems, & chaque tems encore divisé
+en trois parties égales.
+*9 9 *9
+4 8 16
+Toutes ces Mesures Triples se réduisent encore plus simplement à trois especes, en ne
+comptant pour telles que celles qui se battent à trois Tems; savoir, la Triple de Blanches, qui
+contient une Blanche par Tems & se marque ainsi 3/2
+[744] La Triple de Noires, qui contient une Noire par Tems & se marque ainsi 3/4.
+Et la Triple de Croches, qui contient une Croche par Tems ou une Noire pointée par Mesure
+
+Jean-Jacques Rousseau, VOLUME 9. Dictionnaire de musique, in Collection complète des oeuvres, Genève, 1780-1789, vol. 9, in-4°,
+édition en ligne www.rousseauonline.ch, version du 7 octobre 2012.
+
+& se marque ainsi 3/8.
+Voyez au commencement de la Planche B des exemples de ces diverses Mesures Triples.
+TRIPLÉ, adj. Un Intervalle Triplé est celui qui est porté à la triple-Octave. (Voyez
+INTERVALLE.)
+TRIPLUM. Cʼest le nom quʼon donnoit à la Partie la plus aigus dans les commencemens du
+Contre-Point.
+TRITE, s. f. Cʼétoit, en comptant de lʼaigu au grave, comme faisoient les Anciens, la
+troisieme Corde du Tétracorde, cʼest-à-dire, la seconde, en comptant du grave à lʼaigu. Comme
+il y avoir cinq différens Tétracordes, il auroit dû y avoir autant de Trites; mais ce nom nʼétoit en
+usage que dans les trois Tétracordes aigus. Pour les deux graves, voyez PARHYPATE.
+Ainsi il y avoir Trite Hyperboléon, Trite Diézeugménon, & Trite Synnéménon. (Voyez Systême
+, TÉTRACORDE.)
+Boece dit que, le Systême nʼétant encore composé que de deux Tétracordes conjoints, on
+donna le nom de Trite à la cinquieme Corde quʼon appelloit aussi Paramèse; cʼest-à-dire, à la
+seconde Corde en montant du second Tétracorde: mais que Lychaon Samien ayant inséré une
+nouvelle Corde entre la Sixieme ou Parante, & la Trite, celle-ci garda le seul nom de Trite & perdit
+celui de Paramèse, qui fut donne à cette nouvelle Corde. Ce nʼest pas-là tout-à-fait ce que dit
+Boece; mais cʼest ainsi quʼil faut lʼexpliquer pour lʼentendre.
+[745] TRITON. Intervalle dissonant compose de trois Tons, deux majeurs & un mineur, &
+quʼon peut appeller Quarte-superflue. (Voyez QUARTE.) Cet Intervalle est égal, sur le Clavier, à
+celui de la fausse-Quinte: cependant les rapports numériques nʼen sont pas égaux, celui du
+Triton nʼétant que de 31 à 45; ce qui vient de ce quʼaux Intervalles égaux, de part & dʼautre, le
+Triton nʼa de plus quʼun Ton majeur, au lieu de deux semi-Tons majeurs quʼa la fausse-Quinte.
+(Voy. FAUSSE-QUINTE.)
+Mais la plus considérable différence de la fausse-Quinte & du Triton est que celui-ci est une
+Dissonance majeure que les Parties sauvent en sʼéloignant; & lʼautre une Dissonance mineure
+que les Parties sauvent en sʼapprochant.
+LʼAccord du Triton nʼest quʼun renversement de lʼAccord sensible dont la Dissonance est
+portée à la Basse. Dʼoù il suit que cet Accord ne doit se placer que sur la quatrieme Note du Ton,
+quʼil doit sʼaccompagner de Seconde & de Sixte, & se sauver de la Sixte. (Voyez SAUVER.)
+TIMBRE. On appelle ainsi, par métaphore, cette qualité du Son par laquelle il est aigre ou
+doux, sourd ou éclatant, sec ou moelleux. Les Sons doux ont ordinairement peu dʼéclat, comme
+ceux de la Flûte & du Luth; les Sons éclatans sont sujets à lʼaigreur, comme ceux de la Vielle ou
+du Hautbois. Il y a même des Instrumens, tels que le Clavecin, qui sont à la fois sourds & aigres;
+& cʼest le plus mauvais Timbre. Le beau Timbre est celui qui réunit la douceur à lʼéclat. Tel est le
+Timbre du Violon. (Voyez SON.)
+
+Jean-Jacques Rousseau, VOLUME 9. Dictionnaire de musique, in Collection complète des oeuvres, Genève, 1780-1789, vol. 9, in-4°,
+édition en ligne www.rousseauonline.ch, version du 7 octobre 2012.
+
+[U] / V
+[746] V. Cette lettre majuscule sert à indiquer les parties du Violon; & quand elle est double
+VV, elle marque que le premier & le second sont à lʼUnisson.
+VALEUR DES NOTES. Outre la position des Notes, qui en marque le Ton, elles ont toutes
+quelque figure déterminée qui en marque la durée ou le Tems; cʼest-à-dire, qui détermine la
+Valeur de la Note.
+Cʼest à Jean de Muris quʼon attribue lʼinvention de ces figures vers lʼan 1330: car les Grecs
+nʼavoient point dʼautre Valeur de Notes que la quantité des syllabes; ce qui seul prouveroit quʼils
+nʼavoient pas de Musique purement instrumentale. Cependant le P. Mersenne, qui avoit lu les
+ouvrages de Muris, assure nʼy avoir rien vu qui pût confirmer cette opinion, &, après en avoir
+lu moi-même la plus grande partie, je nʼai pas été plus heureux que lui. De plus, lʼexamen des
+manuscrits du quatorzieme siecle, qui sont à la Bibliotheque du Roi, ne porte point à juger que
+les diverses figures de Notes quʼon y trouvé fussent de si nouvelle institution. Enfin, cʼest une
+chose difficile à croire, que durant trois cents ans & plus, qui se sont écoulés entre Guy Arétin &
+Jean de Muris, la Musique ait été totalement privée du Rhythme & de la Mesure, qui en sont
+lʼame & le principal agrément.
+Quoi quʼil en soit, il est certain que les différentes Valeurs [747] des Notes sont de sort
+ancienne invention. Jʼen trouvé, dés les premiers tems, de cinq sortes de figures, sans compter
+la Ligature & le Point. Ces cinq sont, la Maxime, la Longue, la Breve, la semi-Breve, & la
+Minime. (Pl. D. Fig. 8.) Toutes ces différentes Notes sont noires dans le manuscrit de Guillaume
+de Machault; ce nʼest que depuis lʼinvention de lʼimprimerie quʼon sʼest avisé de les faire
+blanches, &, ajoutant de nouvelles Notes, de distinguer les Valeurs, par la couleur aussi-bien que
+par la figure.
+Les Notes, quoique figurées de même, nʼavoient pas toujours la même Valeur. Quelquefois
+la Maxime valoir deux Longues, ou la Longue deux Breves; quelquefois elle en valoir trois: cela
+dépendoit du Mode (voyez MODE): il en croit de même de la Breve, par rapport à la & cela
+dépendoit du Tems (voyez TEMS); de même enfin de la semi-Breve, par rapport à la Minime; &
+cela dépendoit de la Prolation. (Voyez PROLATION.)
+Il y avoir donc Longue double, Longue parfaite, Longue imparfaite, Breve parfaite, Breve
+altérée, semi-Breve majeure, & semi-Breve mineure: sept différentes Valeurs auxquelles
+répondent quatre figures seulement, sans compter la Maxime ni la Minime, Notes de plus
+moderne invention, (Voyez ces divers mots.) Il y avoir encore beaucoup dʼautres manieres de
+modifier les différentes Valeurs de ces Notes, par le Point, par la Ligature, & par la position de la
+Queue. (Voyez LIGATURE, PLIQUE, POINT.)
+Les figures quʼon ajouta dans la suite à ces cinq ou six premieres furent la Noire, la Croche,
+la double-Croche, [748] la triple & même la quadruple-Croche; ce qui seroit onze figures en tout:
+
+Jean-Jacques Rousseau, VOLUME 9. Dictionnaire de musique, in Collection complète des oeuvres, Genève, 1780-1789, vol. 9, in-4°,
+édition en ligne www.rousseauonline.ch, version du 7 octobre 2012.
+
+mais dès quʼon eût pris lʼusage de séparer les Mesures par des Barres, on abandonna toutes les
+figures de Notes qui valoient plusieurs Mesures, comme la Maxime, qui en valoit huit; la
+Longue, qui cri valoir quatre; & la Breve ou quarrée, qui en valoir deux.
+La semi-Breve ou Ronde, qui vaut une Mesure entiere, est la plus longue Valeur de Notes
+demeurée en usage, & sur laquelle on a déterminé les Valeurs de toutes les autres Notes, &
+comme la Mesure binaire, qui avoit passé long-tems pour moins parfaite que la ternaire, prit
+enfin le dessus & seroit de base à toutes les autres Mesures; de même la division sous-double
+lʼemporta sur la sous-triple qui avoir aussi passé pour plus parfaite; la Ronde ne valut plus
+quelquefois trois Blanches, mais deux seulement; la Blanche deux Noires, la Noire deux
+Croches, & ainsi de suite jusquʼà la quadruple-Croche, si ce nʼest dans les cas dʼexception où la
+division sous-triple fut conservée, & indiquée par le chiffre 3 placé au-dessus ou au-dessous
+des Notes. (Voyez Pl. F. 8 & 9. les Valeurs & les figures de toutes ces différentes especes de Notes.)
+Les Ligatures furent aussi abolies en même tems, du moins quant aux changemens quʼelles
+produisoient dans les Valeurs des Notes. Les Queues, de quelque maniere quʼelles fussent placées,
+nʼeurent plus quʼun sens fixe & toujours le même; & enfin la signification du Point sut aussi
+toujours bornée à la moitié de la Note qui est immédiatement avant lui. Tel est lʼétat où les
+figures des Notes ont été mises, [749] quant à la Valeur, & où elles sont actuellement. Les Silences
+équivalens sont expliqués à lʼarticle SILENCE.
+LʼAuteur de la Dissertation sur la Musique moderne trouvé tout cela fort mal imaginé. Jʼai
+dit, au mot NOTE, quelques-unes des raisons quʼil allegue.
+VARIATIONS. On entend sous ce nom toutes les manieres de broder & doubler un Air, soit
+par des diminutions, soit par des passages ou autres agrémens qui ornent & figurent cet Air. A
+quelque degré quʼon multiplie & charge les Variations, il faut toujours quʼà travers ces broderies
+on reconnoisse le fond de lʼAir que lʼon appelle le simple, & il faut en même tems que le caractere
+de chaque Variation soit marqué par des différences qui soutiennent lʼattention & préviennent
+lʼennui.
+Les Symphonistes sont souvent des Variations impromptu ou supposées telles; mais plus
+souvent on les note. Les divers Couplets des Folies dʼEspagne, sont autant de Variations notées;
+on en trouvé souvent aussi dans les Chaconnes Françoises, & dans de petits Airs Italiens pour le
+Violon ou le Violoncelle. Tout Paris est allé admirer, au Concert spirituel, les Variations des
+sieurs Guignon & Mondonville, & plus récemment des sieurs Guignon & Gaviniès, sur des Airs
+du Pont-neuf qui nʼavoient dʼautre mérite que dʼêtre ainsi variés par les plus habiles Violons de
+France.
+VAUDEVILLE, Sorte de Chanson à Couplets, qui roule ordinairement sur des Sujets badins
+ou satyriques. On fait remonter lʼorigine de ce petit Poeme jusquʼau regne de Charlemagne:
+mais, selon la plus commune opinion, il fut [750] inventé par un certain Baffelin, Foulon de Vire
+en Normandie, & comme, pour danser sur ces Chants, on sʼassembloit dans le Val-de-Vire, ils
+furent appelles, dit-on, Vaux-de-Vire, puis par corruption Vaudevilles.
+
+Jean-Jacques Rousseau, VOLUME 9. Dictionnaire de musique, in Collection complète des oeuvres, Genève, 1780-1789, vol. 9, in-4°,
+édition en ligne www.rousseauonline.ch, version du 7 octobre 2012.
+
+LʼAir des Vaudevilles est communément peu Musical. Comme on nʼy fait attention quʼaux
+paroles, lʼAir ne sert quʼà rendre la récitation un peu plus appuyée; du reste on nʼy sent pour
+lʼordinaire ni goût, ni Chant, ni Mesure. Le Vaudeville appartient exclusivement aux François, &
+ils en ont de très-piquans & de très-plaisans.
+VENTRE. Point du milieu de la vibration dʼune Corde sonore, où, par cette vibration, elle
+sʼécarte le plus de la ligne de repos. (Voyez NOEUD.)
+VIBRATION, s. f. Le corps sonore en action sort de son état de repos, par des ébranlemens
+légers, mais sensibles, fréquens & successifs, dont chacun sʼappelle une Vibration. Ces Vibrations,
+communiquées a lʼAir, portent à lʼoreille, par ce véhicule, la sensation du Son; cet ce Son est
+grave ou aigu, selon que les Vibrations sont plus ou moins fréquentes dans le même tems. (Voyez
+SON.)
+VICARIER, v. n. Mot familier par lequel les Musiciens dʼEglise expriment ce que sont ceux
+dʼentrʼeux qui courent de Ville en Ville, & de Cathédrale en Cathédrale, pour attraper quelques
+rétributions, & vivre aux dépens des Maîtres de Musique qui sont sur leur route.
+VIDE. Corde-à-vide, ou Corde-à-jour; cʼest, sur les Instrumens à manche, tels que la Viole
+ou le Violon, le Son quʼon tire de la Corde dans toute sa longueur, depuis [751] le sillet jusquʼau
+chevalet, sans y placer aucun doigt.
+Le Son des Cordes-à-vide est non-seulement plus grave, mais plus résonnant & plus plein
+que quand on y pose quelque doigt; ce qui vient de la mollesse du doigt qui gêne & intercepte le
+jeu des vibrations. Cette différence fait que les bons joueurs de Violon évitent de toucher les
+Cordes-à-vide pour ôter cette inégalité de Timbre qui fait un mauvais effet, quand elle nʼest pas
+dispensée à propos. Cette maniere dʼexécuter exige des positions recherchées, qui augmentent
+la difficulté du jeu. Mais aussi quand on en a une fois acquis habitude, on est vraiment maître
+de son Instrument, & dans les Tons les plus difficiles, lʼexécution marche alors comme dans les
+plus aisés.
+VIS, vivement. En Italien vivace: ce mot marque un mouvement gai, prompt, animé; une
+exécution hardie & pleine de feu.
+VILLANELLE, s. f. Sorte de Danse rustique dont lʼAir doit être gai, marqué, dʼune Mesure
+très-sensible. Le fond de cet Air est ordinairement un Couplet assez simple, sur lequel on fait
+ensuite des Doubles ou Variations. (Voyez DOUBLE,VARIATIONS.)
+VIOLE, s. f. Cʼest ainsi quʼon appelle, dans la Musique Italienne, cette Partie de remplissage
+quʼon appelle, dans la Musique Françoise, Quinte ou Taille; car les François doublent souvent
+cette Partie, cʼest-à-dire, en sont deux pour une; ce que ne sont jamais les Italiens. La Viole sert à
+lier les Dessus aux Basses, & à remplir, dʼune maniere harmonieuse, le trop grand vide qui
+resteroit entre deux. Cʼest [752] pourquoi la Viole est toujours nécessaire pour lʼAccord du tout,
+même quand elle ne fait que jouer la Basse à lʼOctave, comme il arrive souvent dans la Musique
+Italienne.
+VIOLON. Symphoniste qui joue du Violon dans un Orchestre. Les Violons se divisent
+ordinairement en premiers, qui jouent le premier Dessus; & seconds, qui jouent le second
+Dessus. Chacune des deux Parties a son chef ou guide qui sʼappelle aussi le premier; savoir, le
+premier des premiers, & le premier des seconds. Le premier des premiers Violons, sʼappelle
+aussi premier Violon tout court; il est le Chef de tout lʼOrchestre: cʼest lui qui donne lʼAccord, qui
+guide tous les Symphonistes, qui les remet quand ils manquent, & sur lequel ils doivent tous se
+
+Jean-Jacques Rousseau, VOLUME 9. Dictionnaire de musique, in Collection complète des oeuvres, Genève, 1780-1789, vol. 9, in-4°,
+édition en ligne www.rousseauonline.ch, version du 7 octobre 2012.
+
+régler.
+VIRGULE. Cʼest ainsi que nos anciens Musiciens appelloient cette partie de la Note, quʼon
+a depuis appellée la Queue. (Voyez QUEUE.)
+VITE. En Italien Presto. Ce mot, à la tête dʼun Air, indique le plus prompt de tous les
+Mouvemens; & il nʼa, après lui, que son superlatif Prestissmo, ou Presto assai, très-Vite.
+VIVACE. (Voyez VIF.)
+UNISSON, s. m. Union de deux Sons qui sont au même Degré, dont lʼun nʼest ni plus grave
+ni plus aigu que lʼautre, & dont lʼIntervalle étant nul, ne donne quʼun rapport dʼégalité.
+Si deux Cordes sont de même matière, égales en longueur, en grosseur, & également
+tendues, elles seront à lʼUnisson. Mais il est faux de dire que deux Sons à lʼUnisson [753] se
+confondent si parfaitement, & aient une telle identité que lʼoreille ne puisse les distinguer: car
+ils peuvent différer de beaucoup quant au Timbre & quant au degré de forcé. Une Cloche peut
+être à lʼUnisson dʼune Corde de Guitare, une Vielle à lʼUnisson dʼune Flûte, & lʼon nʼen confondra
+point les Sons.
+Le zéro nʼest pas un nombre, ni lʼUnisson un Intervalle; mais lʼUnisson est à la série des
+Intervalles, ce quʼest le zéro à la série des nombres; cʼest le terme dʼoù ils partent, cʼest le point
+de leur commencement.
+Ce qui constitue lʼUnisson, cʼest lʼégalité du nombre des Vibrations faites en tems égaux par
+deux Sons. Dès quʼil y a inégalité entre les nombres de ces Vibrations, il y a Intervalle entre les
+Sons qui les donnent. (Voyez CORDE, VIBRATION.)
+On sʼest beaucoup tourmenté pour savoir si lʼUnisson étoit une Consonnance. Aristote
+prétend que non, Muris assure que si, & le P. Mersenne se range à ce dernier avis. Comme cela
+dépend de la définition du mot Consonnance, je ne vois pas quelle dispute il peut y avoir làdessus. Si lʼon nʼentend par ce mot Consonnance quʼune union de deux Sons agréables à loreille, lʼ
+Unisson sera Consonnance assurément; mais si lʼon y ajoute de plus une différence du grave à
+lʼaigu, il est clair quʼil ne le sera pas.
+Une question plus importante, est de savoir quel est le plus agréable à lʼoreille de lʼUnisson
+ou dʼun Intervalle consonnant, tel, par exemple, que lʼOctave ou la Quinte. Tous ceux qui ont
+lʼoreille exercée à lʼHarmonie, préferent lʼAccord [754] des Consonnances à lʼidentité de lʼUnisson
+; mais tous ceux qui, sans habitude de lʼHarmonie, nʼont, si jʼose parler ainsi, nul préjugé dans
+lʼoreille, portent un jugement contraire: lʼUnisson seul plaît, ou tout au plus lʼOctave; tout autre
+Intervalle leur paroît discordant: dʼoù il sʼensuivroit, ce me semble, que lʼHarmonie la plus
+naturelle, & par conséquent la meilleure, est à lʼUnisson. (Voyez HARMONIE.)
+Cʼest une observation connue de tous les Musiciens, que celle du frémissement & de la
+résonnance dʼune Corde, au Son dʼune autre Corde montée à lʼUnisson de la premiere, ou même
+à son Octave, ou même à lʼOctave de sa Quinte, &c.
+Voici comme on explique ce phénomene.
+Le Son dʼune Corde A met lʼair en mouvement. Si une autre Corde B se trouvé dans la
+sphere du mouvement de cet air, il agira sur elle. Chaque Corde nʼest susceptible, dans un Tems
+donne que dʼun certain nombre de Vibrations. Si les Vibrations, dont la Corde B est susceptible,
+sont égales en nombre à celles de la Corde A, lʼair ébranlé par lʼune agissant sur lʼautre, & la
+trouvant disposée à un mouvement semblable à celui quʼil a reçu, le lui communique. Les deux
+Cordes marchant ainsi de pas égal, toutes les impulsions que lʼair reçoit de la Corde A, & quʼil
+
+Jean-Jacques Rousseau, VOLUME 9. Dictionnaire de musique, in Collection complète des oeuvres, Genève, 1780-1789, vol. 9, in-4°,
+édition en ligne www.rousseauonline.ch, version du 7 octobre 2012.
+
+communique à la Corde B, sont coincidentes avec les Vibrations de cette Corde, & par
+conséquent augmenteront son mouvement loin de le contrarier: ce mouvement, ainsi
+successivement augmenté, ira bientôt jusquʼà un frémissement sensible. Alors la Corde B
+rendra du Son; car toute Corde [755] sonore qui frémir, sonne; & ce son sera nécessairement à
+lʼUnisson de celui de la Corde A.
+Par la même raison, lʼOctave aiguë frémira & résonnera aussi, mais moins fortement que lʼ
+Unisson; parce que la coincidence des Vibrations, & par conséquent lʼimpulsion de lʼair, y est
+moins fréquente de la moitié: elle lʼest encore moins dans la Douzieme ou Quinte redoublée, &
+moins dans la Dix-septieme ou Tierce majeure triplée, derniere des Consonnances qui frémisse
+& résonne sensiblement & directement: car quant à la Tierce mineure & aux sixtes, elles ne
+résonnent que par combinaison.
+Toutes les fois que les nombres des Vibrations dont deux Cordes sont susceptibles en tems
+égal sont commensurables, on ne peut douter que le Son de lʼune ne communique à lʼautre
+quelque ébranlement par lʼaliquote commune; mais cet ébranlement nʼétant plus sensible audelà des quatre Accords précédens, il est compté pour rien dans tout le reste.
+(Voyez CONSONNANCE.)
+Il paroît, par cette explication, quʼun Son nʼen fait jamais résonner un autre quʼen vertu de
+quelque Unisson; car un Son quelconque donne toujours lʼUnisson de ses aliquotes; mais comme
+il ne sauroit donner lʼUnisson de ses multiples, il sʼensuit quʼune Corde sonore en mouvement
+nʼen peut jamais faire résonner ni frémir une plus grave quʼelle. Sur quoi lʼon peut juger de la
+vérité de lʼexpérience dont M. Rameau tire lʼorigine du Mode mineur.
+UNISSONI. Ce mot Italien, écrit tout au long ou en abrégé dans une Partition sur la Portée
+vide du second [756] Violon, marque quʼil doit jouer à lʼUnisson sur la Partie du premier; & ce
+même mot, écrit sur la Portée vide du premier Violon, marque quʼil doit jouer à lʼUnisson sur la
+Partie du Chant.
+UNITE DE MÉLODIE. Tous les beaux Arts ont quelque Unité dʼobjet, source du plaisir quʼils
+donnent à lʼesprit: car lʼattention partagée ne se repose nulle part, & quand deux objets nous
+occupent, cʼest une preuve quʼaucun des deux ne nous satisfait. Il y a, dans la Musique, une Unité
+successive qui se rapporte au sujet, & par laquelle toutes les Parties, bien liées, composent un
+seul tout, dont on apperçoit lʼensemble & tous les rapports.
+Mais il y a une autre Unité dʼobjet plus fine, plus simultanée, & dʼoù naît, sans quʼon y
+songe, lʼénergie de la Musique & la forcé de ses expressions. Lorsque jʼentends chanter nos
+Pseaumes à quatre Parties, je commence toujours par être saisi, ravi de cette Harmonie pleine &
+nerveuse; & les premiers accords, quand ils sont entonnés bien juste, mʼémeuvent jusquʼà
+frissonner. Mais à peine en ai-je écouté la suite, pendant quelques minutes, que mon attention
+se relâche, le bruit mʼétourdit peu-à-peu; bientôt il me lasse, & je suis enfin ennuyé de
+nʼentendre que des Accords.
+Cet effet ne mʼarrive point, quand jʼentends de bonne Musique moderne, quoique
+lʼHarmonie en soit moins vigoureuse, & je me souviens quʼà lʼOpéra de Venise, loin quʼun bel
+Air bien exécuté mʼait jamais ennuyé, je lui donnois, quelque long quʼil fût, une attention
+toujours nouvelle, & [757] lʼécoutois avec plus dʼintérêt à la fin quʼau commencement.
+Cette différence vient de celle du caractere des deux Musiques, dont lʼune nʼest seulement
+
+Jean-Jacques Rousseau, VOLUME 9. Dictionnaire de musique, in Collection complète des oeuvres, Genève, 1780-1789, vol. 9, in-4°,
+édition en ligne www.rousseauonline.ch, version du 7 octobre 2012.
+
+quʼune suite dʼAccords, & lʼautre est une suite de Chant. Or le plaisir de lʼHarmonie nʼest quʼun
+plaisir de pure sensation, & la jouissance des sens est toujours courte, la satiété & lʼennui la
+suivent de près mais le plaisir de la Mélodie & du Chant est un plaisir dʼintérêt & de sentiment
+qui parle au coeur, & que lʼArtiste peur toujours soutenir & renouveller à forcé de génie.
+La Musique doit donc nécessairement chanter pour toucher, pour plaire, pour soutenir
+lʼintérêt & lʼattention. Mais comment dans nos Systêmes dʼAccords & dʼHarmonie, la Musique
+sʼy prendra-t-elle pour chanter? Si chaque Partie a son Chant propre, tous ces Chants,
+entendus à la fois, se détruiront mutuellement, & ne seront plus de Chant: si toutes les Parties
+sont le même Chant, lʼon nʼaura plus dʼHarmonie, & le Concert sera tout à lʼUnisson.
+La maniere, dont un instinct musical, un certain sentiment sourd du génie, a levé cette
+difficulté sans la voir, & en a même tiré avantage, est bien remarquable. LʼHarmonie, qui
+devroit étouffer la Mélodie, lʼanime, la renforce, la détermine: les diverses Parties, sans se
+confondre, concourent au même effet; & quoique chacune dʼelles paroisse avoir son Chant
+propre, de toutes ces Parties réunies on nʼentend sortir quʼun seul & même Chant. Cʼest-là ce
+que jʼappelle Unité de Mélodie.
+Voici comment lʼHarmonie concourt elle-même à cette Unité, loin dʼy nuire. Ce sont nos
+Modes qui caractérisent [758] nos Chants, & nos Modes sont fondés sur notre Harmonie. Toutes
+les fois donc que lʼHarmonie renforce ou détermine le sentiment du Mode & de la Modulation,
+elle ajoute à lʼexpression du Chant, pourvu quʼelle ne le couvre pas.
+LʼArt du Compositeur est donc, relativement à lʼUnité de Mélodie, 1̊. Quand le Mode nʼest pas
+assez déterminé par le Chant, de le déterminer mieux par lʼHarmonie. 2º. De choisir & tourner
+ses Accords de maniere que le Son le plus saillant soit toujours celui qui chante, & que celui qui
+le fait le mieux sortir soit à la Basse. 3º. Dʼajouter à lʼénergie de chaque passage par des Accords
+durs si lʼexpression est dure, & doux si lʼexpression est douce. 4º. Dʼavoir égard dans la
+tournure de lʼAccompagnement au Forte-piano de la Mélodie. 5?. Enfin, de faire en sorte que le
+Chant des autres Parties, loin de contrarier celui de la Partie principale, le soutienne, le
+seconde, & lui donne un plus vis accent.
+M. Rameau, pour prouver que lʼénergie de la Musique vient toute de lʼHarmonie, donne
+lʼexemple dʼun même Intervalle quʼil appelle un même Chant, lequel prend des caracteres tout
+différens, selon les diverses manieres de lʼaccompagner. M. Rameau nʼa pas vu quʼil prouvoit
+tout le contraire de ce quʼil vouloir prouver; car dans tous les exemples quʼil donne,
+lʼAccompagnement de la Basse ne sert quʼà déterminer le Chant. Un simple Intervalle nʼest
+point un Chant, il ne devient Chant que quand il a si place assignée dans le Mode; & la Basse, en
+déterminant le Mode [759] & le lieu du Mode quʼoccupe cet Intervalle, détermine alors cet
+Intervalle à être tel ou tel Chant: de sorte que si, par ce qui precede lʼIntervalle dans la même
+Partie, on détermine bien le lieu quʼil a dans sa Modulation, le soutiens quʼil aura son effet sans
+aucune Basse: ainsi lʼHarmonie nʼagit, dans cette occasion, quʼen déterminant la Mélodie à être
+telle ou telle, & cʼest purement comme Mélodie que lʼIntervalle a différentes expressions selon
+le lieu du Mode où il est employé.
+LʼUnité de Mélodie exige bien quʼon nʼentende jamais deux Mélodies à la fois, mais non pas
+que la Mélodie ne passe jamais dʼune Partie à lʼautre; au contraire, il y a souvent de lʼélégance &
+du goût à ménager à propos ce passage, même du Chant à lʼAccompagnement, pourvu que la
+parole soit toujours entendue. Il y a même des Harmonies savantes & bien ménagées, où la
+
+Jean-Jacques Rousseau, VOLUME 9. Dictionnaire de musique, in Collection complète des oeuvres, Genève, 1780-1789, vol. 9, in-4°,
+édition en ligne www.rousseauonline.ch, version du 7 octobre 2012.
+
+Mélodie, sans être dans aucune Partie, résulte seulement de lʼeffet du tout. On en trouvera (Pl.
+M. Fig. 7.) un exemple, qui, bien que grossier, suffit pour faire entendre ce que je veux dire.
+Il faudroit un Traité pour montrer en détail lʼapplication de ce principe aux Duo, Trio,
+Quatour, aux Choeurs, aux Pieces de symphonie. Les hommes de génie en découvriront
+suffisamment lʼétendue & lʼusage, & leurs ouvrages en instruiront les autres. Je concluds donc,
+& je dis, que du principe que je viens dʼétablir, il sʼensuit premiérement, que toute Musique qui
+ne chante point est ennuyeuse, quelquʼHarmonie quʼelle puisse avoir: secondement, [760] que
+toute Musique où lʼon distingue plusieurs Chants simultanés est mauvaise, & quʼil en résulte le
+même effet que de deux ou plusieurs discours prononcés à la fois sur le même Ton. Par ce
+jugement, qui nʼadmet nulle exception, lʼon voit ce quʼon doit penser de ces merveilleuses
+Musiques où un Air sert dʼAccompagnement à un autre Air.
+Cʼest dans ce principe de lʼUnité de Mélodie, que les Italiens ont senti & suivi sans le
+connoître, mais que les François nʼont ni connu ni suivi; cʼest, dis-je, dans ce grand principe
+que consiste la différence essentielle des deux Musiques: & cʼest, je crois, ce quʼen dira tout jugé
+impartial qui voudra donner à lʼune & à lʼautre la même attention; si toute fois la chose est
+possible.
+Lorsque jʼeus découvert ce principe, je voulus, avant de le proposer, en essayer
+lʼapplication par moi-même cet essai produisit le Devin du Village; après le succès, jʼen parlai
+dans ma Lettre sur la Musique Françoise. Cʼest aux Maîtres de lʼArt à juger si le principe est bon, &
+si jʼai bien suivi les regles qui en découlent.
+UNIVOQUE, adj. Les Consonnances Univoques sont lʼOctave & ses Répliques, parce que
+toutes portent le même nom. Ptolomée fut le premier qui les appella ainsi.
+VOCAL, adj. Qui appartient au Chant des Voix. Tour de Chants Vocal; Musique Vocale.

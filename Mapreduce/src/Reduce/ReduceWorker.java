@@ -35,7 +35,6 @@ public class ReduceWorker {
         }
 
         System.out.println("ReduceWorker " + reducerId + " finished aggregation.");
-        printFinalCounts();
         sendFinalResultToCoordinator();
     }
 
