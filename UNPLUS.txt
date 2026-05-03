@@ -31,7 +31,8 @@ Il relance alors automatiquement la tâche de ce Worker sur un autre port ou une
 
 Difficulté : Difficile. Mais c'est le cœur d'Hadoop !
 
-4. L'exécution spéculative (Speculative Execution)
+4. L'exécution spéculative (Speculative Execution) fait par Aya
+
 Le concept : C'est aussi dans ton énoncé. Imagine que tu as 10 Mappers. 9 d'entre eux terminent en 5 secondes, mais le 10ème est sur un vieil ordinateur très lent et met 3 minutes. Le calcul global est ralenti à cause de ce "traînard" (straggler).
 
 Comment faire : Le Coordinateur repère que ce Mapper est trop lent. Sans l'annuler, il lance une copie exacte de cette tâche sur une machine rapide. Le premier des deux qui finit envoie son résultat, et on "tue" l'autre.
