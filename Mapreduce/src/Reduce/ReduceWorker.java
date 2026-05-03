@@ -9,6 +9,8 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.HashMap;
 import java.util.Map;
+import java.util.HashSet;
+import java.util.Set;
 
 public class ReduceWorker {
     private int reducerId;
@@ -17,6 +19,7 @@ public class ReduceWorker {
     private int receivedMaps = 0;
 
     private final Map<String, Integer> finalCounts = new HashMap<>();
+    private final Set<Integer> receivedTaskIds = new HashSet<>();
 
     public ReduceWorker(int reducerId, int listenPort, int expectedMaps) {
         this.reducerId = reducerId;
@@ -70,6 +73,14 @@ public class ReduceWorker {
             if (msg.getType() == MessageType.INTERMEDIATE_DATA) {
                 IntermediateData data = (IntermediateData) msg.getPayload();
 
+                // Check if this task has already been processed (Speculative Execution defense)
+                if (receivedTaskIds.contains(data.getTaskId())) {
+                    System.out.println("ReduceWorker " + reducerId + " ignored duplicate data for Task " + data.getTaskId());
+                    return;
+                }
+
+                receivedTaskIds.add(data.getTaskId());
+
                 for (Map.Entry<String, Integer> entry : data.getWordCounts().entrySet()) {
                     String word = entry.getKey();
                     int count = entry.getValue();
@@ -80,6 +91,7 @@ public class ReduceWorker {
                 receivedMaps++;
                 System.out.println("ReduceWorker " + reducerId +
                         " received data from MapWorker " + data.getMapId() +
+                        " for Task " + data.getTaskId() +
                         " (" + receivedMaps + "/" + expectedMaps + ")");
             }
 

@@ -83,14 +83,30 @@ public class MapWorker {
                 sendToReducer(
                         task.getReducerHosts().get(reducerId),
                         task.getReducerPorts().get(reducerId),
-                        new IntermediateData(mapId, reducerId, partitions.get(reducerId))
+                        new IntermediateData(task.getTaskId(), mapId, reducerId, partitions.get(reducerId))
                 );
             }
 
             System.out.println("MapWorker " + mapId + " finished file: " + task.getFilePath());
 
+            // Notify coordinator that task is complete
+            notifyCoordinator(task.getTaskId());
+
         } catch (Exception e) {
             e.printStackTrace();
+        }
+    }
+
+    private void notifyCoordinator(int taskId) {
+        try (
+            Socket socket = new Socket("localhost", 7001);
+            ObjectOutputStream out = new ObjectOutputStream(socket.getOutputStream())
+        ) {
+            // We reuse HeartbeatData to send the taskId to save time, or we can just send the taskId directly as a payload
+            out.writeObject(new Message(MessageType.MAP_DONE, taskId));
+            out.flush();
+        } catch (Exception e) {
+            System.err.println("MapWorker " + mapId + " failed to notify Coordinator of MAP_DONE.");
         }
     }
 

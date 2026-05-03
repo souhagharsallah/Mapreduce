@@ -26,6 +26,21 @@ public class Coordinator {
     private final Map<String, WorkerStatus> workers = new ConcurrentHashMap<>();
 
     // ---------------- REGISTRY ----------------
+    
+    static class TaskExecutionInfo {
+        TaskInfo task;
+        long startTime;
+        boolean completed;
+
+        public TaskExecutionInfo(TaskInfo task) {
+            this.task = task;
+            this.startTime = System.currentTimeMillis();
+            this.completed = false;
+        }
+    }
+
+    private final Map<Integer, TaskExecutionInfo> tasks = new ConcurrentHashMap<>();
+    private int nextWorkerId = 1000;
 
     private final List<String> mapHosts = new ArrayList<>();
     private final List<Integer> mapPorts = new ArrayList<>();
@@ -56,11 +71,13 @@ public class Coordinator {
             int port = mapPorts.get(i);
 
             TaskInfo task = new TaskInfo(
+                    i, // taskId
                     file,
                     reducerPorts.size(),
                     reducerHosts,
                     reducerPorts
             );
+            tasks.put(i, new TaskExecutionInfo(task));
 
             sendMapTask(host, port, task);
 
@@ -103,6 +120,13 @@ public class Coordinator {
 
                         workers.put(workerName,
                                 new WorkerStatus(System.currentTimeMillis(), "ACTIVE"));
+                    } else if (msg.getType() == MessageType.MAP_DONE) {
+                        int taskId = (Integer) msg.getPayload();
+                        TaskExecutionInfo tInfo = tasks.get(taskId);
+                        if (tInfo != null && !tInfo.completed) {
+                            tInfo.completed = true;
+                            System.out.println("Coordinator: Map Task " + taskId + " marked as COMPLETED.");
+                        }
                     }
 
                     socket.close();
@@ -157,6 +181,49 @@ public class Coordinator {
         t.start();
     }
 
+    // ---------------- SPECULATIVE EXECUTION TRACKER ----------------
+
+    public void startSpeculativeExecutionTracker() {
+        Thread t = new Thread(() -> {
+            while (true) {
+                try {
+                    Thread.sleep(5000);
+                    long now = System.currentTimeMillis();
+                    
+                    for (Map.Entry<Integer, TaskExecutionInfo> entry : tasks.entrySet()) {
+                        TaskExecutionInfo tInfo = entry.getValue();
+                        
+                        // If task is not completed and has been running for > 15 seconds
+                        if (!tInfo.completed && (now - tInfo.startTime) > 15000) {
+                            System.out.println("⚠️ SPECULATIVE EXECUTION: Task " + tInfo.task.getTaskId() + " is taking too long! Launching clone...");
+                            
+                            // Reset start time so we don't keep launching clones every 5s
+                            tInfo.startTime = now; 
+                            
+                            // Launch a new worker
+                            int newWorkerId = nextWorkerId++;
+                            int newPort = 5000 + newWorkerId;
+                            
+                            startWorkerProcess(
+                                    MapWorker.class,
+                                    String.valueOf(newWorkerId),
+                                    String.valueOf(newPort)
+                            );
+                            
+                            // Wait a bit for the new worker to start
+                            Thread.sleep(1000);
+                            
+                            // Send the task to the new worker
+                            sendMapTask("localhost", newPort, tInfo.task);
+                        }
+                    }
+                } catch (Exception ignored) {}
+            }
+        });
+        t.setDaemon(true);
+        t.start();
+    }
+
     // ---------------- MAIN ----------------
 
     public static void main(String[] args) {
@@ -165,8 +232,9 @@ public class Coordinator {
 
         coordinator.startHeartbeatListener();
         coordinator.startFailureDetector();
+        coordinator.startSpeculativeExecutionTracker();
 
-        String file = "data/logfiles.log";
+        String file = "data/logfiles.log.txt";
 
         List<String> chunks = coordinator.splitFile(file, 50);
 
