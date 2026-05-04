@@ -35,6 +35,3 @@ Il faut ouvrir un terminal dans le même dossier du projet pour lancer le Manage
 ### Terminal 
 
 java -cp out coordinator.Coordinator
-
-## Remarque trés importante
-Entre chaque exécution il faut taper :    taskkill /F /IM java.exe    pour liberer les ports.
