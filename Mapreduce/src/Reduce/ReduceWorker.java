@@ -34,16 +34,13 @@ public class ReduceWorker {
         }
 
         System.out.println("ReduceWorker " + reducerId + " finished aggregation.");
-<<<<<<< HEAD
 
         // Au lieu d'envoyer au coordinateur, on sauvegarde dans un fichier
         saveResultsToFile();
         running = false; // stoppe le heartbeat thread
         //  ET on envoie le résultat final au coordinateur ! (AJOUTE CETTE LIGNE)
-=======
->>>>>>> a43b010 (Logique de decoupage de fichier et de choix de nb des mapper et reducer et lancer les papper est reducer automatiquement a travers le coordinateur)
         sendFinalResultToCoordinator();
-        
+
     }
 
 
@@ -93,23 +90,23 @@ public class ReduceWorker {
 
     private volatile boolean running = true; // flag
     private void startHeartbeatThread() {
-    Thread heartbeatThread = new Thread(() -> {
-        while (running) { // ✅ vérifie le flag
-            try (
-                Socket socket = new Socket("localhost", 7001);
-                ObjectOutputStream out = new ObjectOutputStream(socket.getOutputStream())) {
-                
-                HeartbeatData hb = new HeartbeatData("REDUCER", reducerId);
-                out.writeObject(new Message(MessageType.HEARTBEAT, hb));
-            } catch (Exception e) {
-                // silence
+        Thread heartbeatThread = new Thread(() -> {
+            while (running) { // ✅ vérifie le flag
+                try (
+                        Socket socket = new Socket("localhost", 7001);
+                        ObjectOutputStream out = new ObjectOutputStream(socket.getOutputStream())) {
+
+                    HeartbeatData hb = new HeartbeatData("REDUCER", reducerId);
+                    out.writeObject(new Message(MessageType.HEARTBEAT, hb));
+                } catch (Exception e) {
+                    // silence
+                }
+                try { Thread.sleep(3000); } catch (Exception ignored) {} // ✅ sleep DEHORS du try socket
             }
-            try { Thread.sleep(3000); } catch (Exception ignored) {} // ✅ sleep DEHORS du try socket
-        }
-    });
-    heartbeatThread.setDaemon(true);
-    heartbeatThread.start();
-}
+        });
+        heartbeatThread.setDaemon(true);
+        heartbeatThread.start();
+    }
     public static void main(String[] args) throws IOException {
         int reducerId = Integer.parseInt(args[0]);
         int port = Integer.parseInt(args[1]);
@@ -121,17 +118,17 @@ public class ReduceWorker {
     }
 
     private void sendFinalResultToCoordinator() {
-    try (
-        Socket socket = new Socket("localhost", 7000);
-        ObjectOutputStream out = new ObjectOutputStream(socket.getOutputStream())) {
-        
-        FinalResult result = new FinalResult(reducerId, finalCounts);
-        out.writeObject(new Message(MessageType.FINAL_RESULT, result));
-        out.flush();
-        System.out.println("ReduceWorker " + reducerId + " sent final result to Coordinator");
-    } catch (Exception e) {
-        e.printStackTrace();
+        try (
+                Socket socket = new Socket("localhost", 7000);
+                ObjectOutputStream out = new ObjectOutputStream(socket.getOutputStream())) {
+
+            FinalResult result = new FinalResult(reducerId, finalCounts);
+            out.writeObject(new Message(MessageType.FINAL_RESULT, result));
+            out.flush();
+            System.out.println("ReduceWorker " + reducerId + " sent final result to Coordinator");
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
     }
-}
 
 }

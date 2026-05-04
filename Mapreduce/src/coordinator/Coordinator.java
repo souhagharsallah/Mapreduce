@@ -52,8 +52,10 @@ public class Coordinator {
         for (int i = 0; i < files.size(); i++) {
 
             String file = files.get(i);
-            String host = mapHosts.get(i % mapHosts.size());
-            int port = mapPorts.get(i);
+            int mapperIndex = i % mapHosts.size();
+
+            String host = mapHosts.get(mapperIndex);
+            int port = mapPorts.get(mapperIndex);
 
             TaskInfo task = new TaskInfo(
                     file,
@@ -166,7 +168,7 @@ public class Coordinator {
         coordinator.startHeartbeatListener();
         coordinator.startFailureDetector();
 
-        String file = "data/logfiles.log";
+        String file = "src/data/bigfile.txt";
 
         List<String> chunks = coordinator.splitFile(file, 50);
 
