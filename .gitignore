@@ -1,5 +1,10 @@
+# Dossiers générés
+out/
+output/
 Mapreduce/src/data/
+
+# Fichiers résultats générés
 *.txt
 *_part*.txt
-final.txt
 resultat_reducer_*.txt
+final.txt
