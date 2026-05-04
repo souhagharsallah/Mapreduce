@@ -1,3 +1,5 @@
-
-# data directories store private data, NEVER PUT IN ON GIT 
-**/data
+Mapreduce/src/data/
+*.txt
+*_part*.txt
+final.txt
+resultat_reducer_*.txt
