@@ -24,6 +24,21 @@ public class Coordinator {
 
     private final Map<String, WorkerStatus> workers = new ConcurrentHashMap<>();
 
+    static class TaskExecutionInfo {
+        TaskInfo task;
+        long startTime;
+        boolean completed;
+
+        public TaskExecutionInfo(TaskInfo task) {
+            this.task = task;
+            this.startTime = System.currentTimeMillis();
+            this.completed = false;
+        }
+    }
+
+    private final Map<Integer, TaskExecutionInfo> tasks = new ConcurrentHashMap<>();
+    private int nextWorkerId = 1000;
+    private int nextSpeculativePort = 8000;
     private final List<String> mapHosts = new ArrayList<>();
     private final List<Integer> mapPorts = new ArrayList<>();
 
@@ -58,6 +73,7 @@ public class Coordinator {
         Queue<String> taskQueue = new LinkedList<>(files);
 
         int workerCount = mapHosts.size();
+        int taskId = 0;
 
         while (!taskQueue.isEmpty()) {
             for (int i = 0; i < workerCount; i++) {
@@ -72,15 +88,20 @@ public class Coordinator {
                 int port = mapPorts.get(i);
 
                 TaskInfo task = new TaskInfo(
+                        taskId,
                         file,
                         reducerPorts.size(),
                         reducerHosts,
                         reducerPorts
                 );
 
+                tasks.put(taskId, new TaskExecutionInfo(task));
+
                 sendMapTask(host, port, task);
 
-                System.out.println("Sent file " + file + " to MapWorker " + i);
+                System.out.println("Sent file " + file + " as Task " + taskId + " to MapWorker " + i);
+
+                taskId++;
             }
 
             try {
@@ -88,7 +109,6 @@ public class Coordinator {
             } catch (Exception ignored) {}
         }
     }
-
     public void startHeartbeatListener() {
         Thread t = new Thread(() -> {
             try (ServerSocket serverSocket = new ServerSocket(7001)) {
@@ -110,6 +130,14 @@ public class Coordinator {
                                 new WorkerStatus(System.currentTimeMillis(), "ACTIVE")
                         );
                     }
+                    else if (msg.getType() == MessageType.MAP_DONE) {
+                        int taskId = (Integer) msg.getPayload();
+                        TaskExecutionInfo tInfo = tasks.get(taskId);
+                        if (tInfo != null && !tInfo.completed) {
+                            tInfo.completed = true;
+                            System.out.println("Coordinator: Map Task " + taskId + " marked as COMPLETED.");
+                        }
+                    }
 
                     socket.close();
                 }
@@ -119,6 +147,46 @@ public class Coordinator {
             }
         });
 
+        t.setDaemon(true);
+        t.start();
+    }
+    public void startSpeculativeExecutionTracker() {
+        Thread t = new Thread(() -> {
+            while (true) {
+                try {
+                    Thread.sleep(5000);
+                    long now = System.currentTimeMillis();
+
+                    for (Map.Entry<Integer, TaskExecutionInfo> entry : tasks.entrySet()) {
+                        TaskExecutionInfo tInfo = entry.getValue();
+
+                        // If task is not completed and has been running for > 15 seconds
+                        if (!tInfo.completed && (now - tInfo.startTime) > 30000) {
+                            System.out.println("⚠️ SPECULATIVE EXECUTION: Task " + tInfo.task.getTaskId() + " is taking too long! Launching clone...");
+
+                            // Reset start time so we don't keep launching clones every 5s
+                            tInfo.startTime = now;
+
+                            // Launch a new worker
+                            int newWorkerId = nextWorkerId++;
+                            int newPort = nextSpeculativePort++;
+
+                            startWorkerProcess(
+                                    MapWorker.class,
+                                    String.valueOf(newWorkerId),
+                                    String.valueOf(newPort)
+                            );
+
+                            // Wait a bit for the new worker to start
+                            Thread.sleep(1000);
+
+                            // Send the task to the new worker
+                            sendMapTask("localhost", newPort, tInfo.task);
+                        }
+                    }
+                } catch (Exception ignored) {}
+            }
+        });
         t.setDaemon(true);
         t.start();
     }
@@ -164,6 +232,7 @@ public class Coordinator {
 
         coordinator.startHeartbeatListener();
         coordinator.startFailureDetector();
+        coordinator.startSpeculativeExecutionTracker();
 
         String file = "src/data/livre.txt";
 

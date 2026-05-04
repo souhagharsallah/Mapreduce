@@ -6,8 +6,10 @@ public class TaskInfo implements Serializable {
     private int numReducers;
     private List<String> reducerHosts;
     private List<Integer> reducerPorts;
+    private int taskId;
 
-    public TaskInfo(String filePath, int numReducers, List<String> reducerHosts, List<Integer> reducerPorts) {
+    public TaskInfo(int taskId, String filePath, int numReducers, List<String> reducerHosts, List<Integer> reducerPorts) {
+        this.taskId = taskId;
         this.filePath = filePath;
         this.numReducers = numReducers;
         this.reducerHosts = reducerHosts;
@@ -28,5 +30,8 @@ public class TaskInfo implements Serializable {
 
     public List<Integer> getReducerPorts() {
         return reducerPorts;
+    }
+    public int getTaskId() {
+        return taskId;
     }
 }
